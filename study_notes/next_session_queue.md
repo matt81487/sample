@@ -40,3 +40,8 @@ Build BOTH variants side by side, so the user practices the difference:
 - "Loss in Value? Other Loss? Cost Avoided? Loss Avoided?" (IBM/Suluku owner side; Gana/Amazon contractor side; Vincent Group employer side; Lila employee; Reva/Ralphie; Morgan lost volume LA; Maya's fridge Dusold; Musa v. Hamilton NP+UE and GM; Amina; Bob v. Al).
 - Owner side: LV = actual reasonable cost to finish (cheaper reasonable replacement counts), CA = unpaid contract balance, attorney's fees excluded, value increase = distractor.
 - Include several split-blank GM questions in every Contracts set.
+
+## CONTRACTS SCOPE (11/15, user): MIDTERM III ONLY, NO split-blank LV/OL/CA/LA questions
+- Midterm III cases: Harris, Dusold, Wartzman, Walser, Algernon Blair, Lancellotti, Ventura, Osteen, Dempsey, Vogan, Herzog (+ TWEN problems, Restatement illustrations §370-377, 384, 317-333). NOT City Stores (SP) or Barrie School (LD).
+- Do not ask for LV/OL/CA/LA as separate blanks. Asking for the expectation total is fine.
+- Keep drilling cost-avoided vs. wealth benefit; user still finds it hard. Pair both value wordings in the same fact pattern.
