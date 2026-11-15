@@ -23,3 +23,4 @@ Build BOTH variants side by side, so the user practices the difference:
   Tim: losses 8k+3k=11k; CA 19k; NW 85k−68k−3k=14k; award 14k; Okafor 0 (already netted).
 - Also include a case where both measures are ≤0 → breacher gets $0 and the owner recovers damages (Reyes v. Hartwell: CA 50−48−4=−2k→0; NW 45−48−4=−7k→0; Hartwell gets 2k).
 - Mix the variants, same question format (fill-in), several pairs with similar numbers but opposite wording.
+- USER REQUEST (11/15): not confident on these. Build this restitution drill into EVERY quiz tomorrow (Contracts sets primarily; add 2–3 per Contracts set and a dedicated drill set). Key misses: (1) forgetting the extra completion cost above the remaining price as a loss in cost-avoided; (2) forgetting the owner's damages when both measures are ≤0; (3) confusion about when to subtract the replacement cost in wealth benefit (only when the value figure is for the finished job).
