@@ -35,3 +35,8 @@ Build BOTH variants side by side, so the user practices the difference:
 - No invented wrinkles (no fee-shrunk funds, no lack of notice, no §332/§322, no incidental beneficiaries, no future-services assignments).
 - Fill-in-the-blank, numeric answers only, no qualitative "why" questions.
 - Mirror the 4 TWEN problems with new numbers: Michael & Sarah (answer = the "additional $X they must spend"), Attorney Smith (full assigned amount), Emily ($0), Andrew & Charles (damages claimed).
+
+## WEEK 10 SLIDE FORMAT (11/15): professor's E.Q. slides ask for GM variables as SEPARATE blanks
+- "Loss in Value? Other Loss? Cost Avoided? Loss Avoided?" (IBM/Suluku owner side; Gana/Amazon contractor side; Vincent Group employer side; Lila employee; Reva/Ralphie; Morgan lost volume LA; Maya's fridge Dusold; Musa v. Hamilton NP+UE and GM; Amina; Bob v. Al).
+- Owner side: LV = actual reasonable cost to finish (cheaper reasonable replacement counts), CA = unpaid contract balance, attorney's fees excluded, value increase = distractor.
+- Include several split-blank GM questions in every Contracts set.
