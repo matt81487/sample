@@ -30,3 +30,8 @@ Build BOTH variants side by side, so the user practices the difference:
 - Do NOT use cases/rules absent from the outline (e.g., Grable, Gunn, complete preemption, Asahi/Nicastro, Walden, Burger King, Mallory, Bristol-Myers, Shaffer, Hanson, Exxon, Atlantic Marine, Goldlawr, remand deadlines, removal unanimity, one-year removal bar, LLC citizenship, legal-certainty test, Piper/FNC detail — FNC is flagged "not yet covered").
 - Erie: professor will NOT ask to apply the tests. Ask WHY Erie matters, WHICH test helps a party argue (state law → outcome-determinative/twin aims; federal → Hanna/Byrd), Klaxon/Van Dusen, when Erie applies (answer "diversity").
 - Fixed CP_EX15/16/17 on 11/15 (22 questions replaced; migration fixCpOutline).
+
+## BENEFICIARY/ASSIGNMENT RULE (11/15, user): stay as close to the TWEN questions as possible
+- No invented wrinkles (no fee-shrunk funds, no lack of notice, no §332/§322, no incidental beneficiaries, no future-services assignments).
+- Fill-in-the-blank, numeric answers only, no qualitative "why" questions.
+- Mirror the 4 TWEN problems with new numbers: Michael & Sarah (answer = the "additional $X they must spend"), Attorney Smith (full assigned amount), Emily ($0), Andrew & Charles (damages claimed).
