@@ -45,3 +45,11 @@ Build BOTH variants side by side, so the user practices the difference:
 - Midterm III cases: Harris, Dusold, Wartzman, Walser, Algernon Blair, Lancellotti, Ventura, Osteen, Dempsey, Vogan, Herzog (+ TWEN problems, Restatement illustrations §370-377, 384, 317-333). NOT City Stores (SP) or Barrie School (LD).
 - Do not ask for LV/OL/CA/LA as separate blanks. Asking for the expectation total is fine.
 - Keep drilling cost-avoided vs. wealth benefit; user still finds it hard. Pair both value wordings in the same fact pattern.
+
+## CONTRACTS FINALS RULE (11/19, user): mirror the final exam
+- User is uploading ALL Contracts II slides and notes from the entire semester; build finals quizzes from them ONLY when asked.
+- Fact patterns must NOT be short: practice questions should mirror the LENGTH, DIFFICULTY and FORMAT of the final exam questions as closely as possible (TWEN / Jones slide length: full multi-sentence fact patterns with distractor facts).
+- Damages = fill in the blank (numeric); everything else = MC (4 options, like Jones's slides).
+
+## CIV PRO (11/18 class: Erie rehash + semester review)
+- Added to outline rows 72 and 75 (purpose test definition, IIED example, balancing rarely used, flagged test questions). Notes saved in class_notes/Civ_Pro_11-18-26_Class_Notes.docx.
