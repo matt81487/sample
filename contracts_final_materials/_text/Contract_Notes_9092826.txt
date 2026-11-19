@@ -1,0 +1,42 @@
+Contract Notes 9/28/26
+Entering damages phase.
+Make up the bulk of our final exam-damages
+All damages questions in exam 2.
+Exam 3 will be damages mostly as well.
+Seller’s measure of expectation damages when a buyer breaches
+How do we compute sellers damages when a buyer breaches-contract price-FMV
+Testimony, resale price can help inform what the FMV is.
+If it’s a buyer’s breach what formula do we use? 
+When seller breaches-court requires buyer is trying to prove that the FMV of the property was greater than the contract price.
+I am buying a property, I agree to buy property for $500k. Seller says I’m not selling it to you. I sue. What was the FMV at the time of breach. The FMV was $510k at the time of breach. That means I would’ve given someone $500k and received a property worth $510k. Which means I would’ve been $10k for me at the time the contract was consummated.
+But if we change the facts, the FMV at the time of breach was $480k. The contract was $500k. So had you entered in the agreement. You would’ve been worth -$20k less than you are now.
+Buyer has establish FMV is greater than contract price in order for you to be awarded money.
+Seller is the inverse this.
+Real estate formula is probably the simplest of all the formulas.
+$500k-$510+1000
+What’s the loss in value? What answer best describes the loss in value for this fact pattern? $500k-460k-=$40
+LV+OL-CA-LA
+Understand and apply the formula consistent with the facts and play close attention to detail. 
+She asks employment law hypotheticals more than any of them. 
+This is an employers measure of expectation damages. Different formula for employer and employee expectation damages.
+When an employee breaches and we’re trying to identify the employers measure of damages, what’s the formula? Difference between the reasonable cost of replacement performance- and the unpaid contract salary
+Employers measure of damages formula-LV if 6 months of remaining contract, how much do I have to give the new employee for those 6 months.
+Cost avoided=money I didn’t have to pay breaching employee.
+6 months remaining on the contract. And I was paying breaching employee $1k. Then that $6k cost avoided. Because I didn’t have to pay breaching employee that $6k. 
+Most mistakes with the loss in value part.
+Loss of value is the amount of money you pay new employee
+Cost avoided-money you didn’t pay breaching employee.
+When do we use dimunition formula? We’re using cost of completion. Bring the work with in line with the contract specifications.
+Establish three damages-CFA, beyond amount that’s reasonably certain/forseeable. At the time of the contract. 
+Need to execute both 
+Should never come up with different answers. Always the same.
+Net profit+unreimbursed expenses, and 2) expectation damages LV+OL-CA-LA
+100000-70000-20000-5000=5k
+30k+
+Net Profit variable.
+He may ask what the net profit is? In this scenario it would be $20k. Expected net profit had the contract been fully performed by both parties. $100k-$80k.
+When we get to the unreimbursed expenses.
+Accounting for the fact Columbia spent only $60k, but they received $70k from Abby, and then they received as a loss avoided.
+2 year contract, $75k+1000=$76k, no costs avoided, -$45000=$31k
+Buyer breach, seller breach, employer, and employee breach.
+Place the injured party in the same exact position they would have been in had the contract been fully performed. No better. No worse.

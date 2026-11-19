@@ -1,0 +1,57 @@
+Week 1 Class Notes Contracts II
+08/24/26
+Joyner case
+Whose meaning of develoment going to control, when two different meanings  
+Rule of construction- this is the same as the profertum word that’s in my spreadsheet is the court construed the term against what it perceived of the drafter, but they were of equal bargaining power, sophisticated parties, couldn’t impose on the other, one might have written it, but both were sophisticated parties. Not appropriate to rule against the constructor. 
+Chicken case
+Trade usage evidence
+Course of dealing - how parties have dealt in the past-
+Course of performance evidence-how parties are performing during the contract.
+Hierarchy- the court is more concerned with the interpretation on meaning used by the parties to the contract, so how a statute or a third party, or even a reasonable person my interpret is not as controlling. Puts trade usage as the third most important.
+The two are, course of dealing evidence-how they have dealt with each other in the past.
+Course of performance-performing under the current contract.
+Dispute over the term chicken-
+Example in class- Google and Apple-Apple is in the chicken business, google and apple have done busness together for 10 years buying/selling chicken from each other. And each time in the last 9 of 10 years, google has always shipped apple young chickens, but in the 10th contract, under the present contract, but they ship ones that are not young, but now they say it means any chicken, old chickens, apple in turn says this is not waht we meant, and the shipment is non-compliant, and let’s assume they sign the contract every eyar, court says google I hear whaty you’re saying, over the last 10 years you have only shipped Apple young chickens. I’m inc;ined to believe chicken means young chickens, because you’ve done that for 9 years-this is course of dealing. But then google says your honor is correct, over last 9 years we have shipped young chickens, but in year 10 we had a conversation with apple and we invited them to consider receiving older chickens under the same conditions and they agreed, and what we did in the 10th year, was we shipped old chickens, annual supply of chickens of young chickens, we are in the 9th month, 9th shipment, all of them old chickens, no objections, no complaints from Apple, that’s why we maintained under the current contract it calls for old chicken. 
+Express terms are the premier hierarchy measuring stick. 
+No meaning of the minds then you don’thave a viable contract. Educating us on types of evidence on determining interpretation on term and what the party’s meant by a particular term
+Important to understand this term.
+Patent and latent ambiguity
+Patent-based on the fact there’s ambiguity.
+Latent-correspondence, extrinsic evidence that creates the ambiguity.
+Alaska case
+Circumstances that may represent exceptions to preexisting duty rule.
+New consideration is what we’re looking for. 
+Hypothetical in class during this Alaska case.
+The correct answer is D.
+***This is tested every year***: Only 35-50% get it right. Make sure you really study this one.
+
+
+First question you should ask: Is there new consideration? Always ask this consideration.
+She was just asked just to type, but when it was discovered and it needed to be type in Mandarin, it said she could easily translate and type, now she’s not just typing, she’s translating, which adds additional consideration.
+He asks students to select the best answer. 
+Unforseen difficulty EXCEPTION- 
+He does not deviate much from the slides and the cases, and the restatements, ,we should ace every exam. Truly understand as it’s presented, and understand why the response is giving is the best response. 
+“On appeal and why?” The very end that was cut off.
+Chloe’s answer is the most accurate response. 
+Rule of construction not applied for eqaul bargaining party- Generally applied when parties have unequal bargaining power-vulnerable to the power of the other party, terms imposed on the other power.
+ 7:30PM
+Thompson v. Libby
+When completely integrated can’t contradict or supplement written agreement. No prior or contemporaneous. That agreement is final expression. 
+Statement of warranty can’t add it to a completely integrated agreement.
+If partially integrated, evidence of prior or contemporaneous may not contradict, but it can ADD to it. Did not intend for it to be final expression. You can supplement, but can’t contradict the terms. 
+Sherrod
+Fraud in the execution 
+Fraud in the inducement
+Court is rejecting fraud in the inducement claim. One party is saying I knew what I was signing, but I signed it because of representatioins that were made to me about the amount of excavations required and the compensation, but for those representrations made to me, I never would’ve signe dhtme, therefore I was fraudently induced. The court says the parol ewvidene rule bars you from that kind of evidence to a jury. And the reason the parol evidence prevents to a jury. In the very contract you signed you represent that you satisifed yourself the character, quantity. That you were familiar with the character, quantity, and kinds of materials to be encountered. So you can’t say they told me, but the contracgt says YOU DO THIS. YOU DID IT YURSELF. You cant use the fraud eception because they made representations, because in the contract you said you didn’t rely on representations, you relied on your own representations. 
+This contract also contained a merger clause. The merger cluase agree and represent there are no expressions that are not contained in this agreement. If gthere’s a clause that both parties agree, no representations, no promises, that are not contained in this agreement, well how can I say that I wouldn’t have signed it if not for the represenataions, when the document says I didn’t rely on any other representations.
+Because if you did use it that way, there would be no parol evidence rule. 
+Important to distinguish fraud in the inducement from fraud in the execution.
+Lies at intersection of contracts and fraud.
+R.201-governs here look this one up***
+R
+Reasonable person applies when ambiguity and different meaning
+Every year there is some question related to this case. Sometimes 2-3
+This happened AFTER, so it doesn’t bar this parol evidence. Statements were made after the contract.
+Westlaw Twin.
+Recordings on canvas.
+S

@@ -1,0 +1,253 @@
+                                        SPRING 2023
+                                       CONTRACTS II
+
+                                          EXAM III
+
+                                    UIC LAW SCHOOL
+
+
+                                     SAMUEL JONES
+                             Associate Dean & Professor of Law
+
+
+This examination consists of FIFTEEN (15) multiple-choice questions worth one (1) point
+each for a potential 15% of your course grade. The maximum number of points you may earn is
+ten (15) points. You have exactly THIRTY-SEVEN (37) MINUTES to complete this
+examination, which may be taken remotely.
+
+INSTRUCTIONS:
+
+1.     Please use the exam software system appropriately. This is a closed book exam.
+2.     Please check your answers before submitting them.
+3.     You must attempt to answer all questions correctly.
+4.     You must select the most accurate answer.
+5.     You must use an exam number.
+6.     If you complete the exam early, you may leave the exam room, if applicable.
+7.     You are taking this examination in accordance with the Honor Code.
+8.     Failure to submit your examination answers within the mandatory return time may result
+       in the examinee receiving 0 points on this exam.
+9.     Between the time you receive your exam and submit answers, you are prohibited from
+       ALL TALKING, including DISCUSSION of the content of the exam or its related
+       subject matter with any person other than school officials in the event of an exam issue.
+       Furthermore, you are not authorized to share, copy, type, or photograph any portion of
+       this exam at any time. Additionally, you may not discuss this exam content with any
+       student that has yet to take this exam. Violation of these exam rules may result in you
+       receiving a “F” for the course, being removed from the course, or receiving 0 points on
+       this exam.
+10.    You may NOT use or seek help from the course textbook, legal references, class notes, or
+       any other notes, supplemental materials or outlines or another person. In short, you may
+       not receive help with any question or view any materials during the examination period.
+11.    You are to apply common law on each question, unless specifically instructed to do
+otherwise.
+12.    This exam may not be administered or taken prior to Thursday, April 11, 2023.
+Questions 1 and 2 are based on the following facts:
+
+Mali, Inc. hires Isra Construction Company to construct a building on Mali’s land called, “San
+Francisco Tower” for a total price of $650,000. Isra is expected to spend $300,000 on labor and
+$360,000 on materials to complete the construction and deliver the building to Mali. After Mali’s
+stock reaches an all-time low, it repudiates its contract with Isra, committing a total breach. At the
+time of the breach, Isra had only received $100,000 from Mali, but had spent $110,000 on labor
+and materials. The reasonable value of Isra’s construction at the point of breach, including the
+$110,000 it spent, is $230,000. Isra sues Mali for damages.
+
+Question 1:
+
+Which answer is most accurate regarding the amount a court should award Isra if Isra seeks
+reliance damages?
+
+       A. $110,000
+       B. $10,000
+       C. $0
+       D. $90,000
+
+Question 2:
+
+Which answer best states the amount a court should award if Isra seeks restitution damages?
+
+       A. $120,000
+       B. $230,000
+       C. $220,000
+       D. $130,000
+
+Questions 3 through 8 are based on the following fact pattern:
+
+Broke is widely known for being in the retail business of selling restaurants the Model A13 laptop
+computer (‘computer”) at a price of $1,000 to $1,100 each. Broke purchases the computers directly
+from foreign manufacturer, Hyum. Broke pays Hyum $500 for each computer. Broke keeps cash
+reserves in the amount of $150,000 for inventory purchases. Hyum has virtually an endless supply
+of computers to sell Broke for $500 each. Broke knowingly enters into sale agreements with third
+party U.S. customers for the sale of the computers. It then purchases the computers from Hyum,
+after entering a contract with the customer, and subsequently delivers the computers it receives
+from Hyum to its customers. Andy’s Pancakes, one of Broke’s regular customers, breached a
+contract to purchase 5 computers, for $1,000 each, by wrongfully refusing to accept five computers
+when Broke attempted to deliver the computers. Broke then rerouted its delivery truck with the
+computers it had earmarked for Andy’s Pancakes to ICS Builders, another one of Broke’s regular
+customers. ICS purchased the five computers for $1,100 each. Broke sued Andy’s Pancakes for
+damages.
+Question 3:
+
+Which answer is most accurate?
+
+   A. Broke is entitled to net profits it would have earned under the Andy’s contract.
+   B. Broke is entitled to gross profits it would have earned under the Andy’s contract.
+   C. Broke is not entitled to lost profits under the Andy’s contract.
+   D. Broke is not entitled to any damages under the Andy’s contract, beyond nominal damages.
+
+Question 4:
+
+Which answer is most accurate regarding the impact of the ICS Builders contract on Broke’s
+damages?
+
+   A. The ICS contract was a substitute or mitigating contract.
+   B. The ICS contract was an additional contract.
+   C. The ICS contract reduced Broke’s Loss in Value under the Andy’s contract.
+   D. The ICS contract established the restitution value of the computers.
+
+Question 5:
+
+Which answer best states the expectation damages for Broke?
+
+   A. $0
+   B. $5,000
+   C. $2,500
+   D. $500
+
+Questions 6:
+
+Which answer is most accurate if Andy’s Pancakes argues that Broke had a duty to mitigate
+damages, and, thus, was obligated to sell the five computers to ICS to avoid losses?
+
+   A. The duty to mitigate damages cannot be imposed to deprive Broke of the benefit of the
+      subsequent contract with ICS since the ICS transaction was available irrespective of
+      Andy’s Pancakes.
+   B. Andy’s is correct. The doctrine of avoidance requires that Broke reduces profit losses by
+      selling to ICS.
+   C. Broke cannot be required to mitigate damages because it was not the party in breach.
+   D. Andy’s is correct because Broke does not own a warehouse full of computers.
+
+Question 7:
+
+During the litigation, evidence establishes that Broke never disclosed to Andy’s Pancakes the
+amount of profit is makes on the sale of each computer. Which answer is most accurate?
+   A. Broke cannot collect lost profits because Andy’s could not have foreseen the amount or
+      nature of the profits linked to its breach.
+   B. Lost profits are presumed to be contemplated by the two parties since they naturally flow
+      from a breach of their purchase agreement.
+   C. Broke cannot collect lost profits as damages because lost profits do not naturally from a
+      breach of the contract and Broke was obligated to inform Andy’s of the circumstances
+      regarding Hyum.
+   D. A &C.
+
+Question 8:
+
+Assume for purposes of this question that the judge presiding over the Broke v. Andy’s Pancakes
+litigation, discovers that counsel for Andy’s Pancakes engaged in bad faith conduct during the
+litigation. Which answer is most accurate?
+
+   A. The judge may bar the attorney from practicing law under the American rule.
+   B. The judge may award Broke attorney’s fees to cover the cost of litigation against Andy’s.
+   C. The judge may not award Broke attorney’s fees unless their contract or a statute provides
+      for attorney’s fees.
+   D. The judge may consider attorney’s bad faith litigation to constitute a breach of the Andy’s-
+      Broke contract and award punitive damages, damages for emotional disturbance and
+      attorney’s fees.
+
+Questions 9 through 11 are based on the following facts:
+
+Sowell contracts to build a shopping mall for Zieto on or before June 1, 2022, for $14 million.
+Sowell does not complete building the shopping mall until October 1, 2022, in breach of the
+contract. Because of Sowell’s delay, Zieto was unable to use the property to earn profits. Zieto
+sues Sowell for damages caused by Sowell’s unexcused delay in finishing the shopping mall.
+
+Question 9:
+
+Which answer is most accurate is Zieto cannot prove the amount of profit he would have made
+during the period of delay with reasonable certainty?
+
+   A. Zieto is limited to strictly to restitution or reliance damages, if proven with reasonable
+      certainty.
+   B. Zieto can recover damages based on the rental value of the shopping mall during the time
+      of delay, if proven with reasonable certainty.
+   C. Zieto can only collect restitution, if proven with reasonable certainty.
+   D. Zieto can only recollect reliance damages, if proven with reasonable certainty.
+
+Question 10:
+
+If Zieto seeks expectation damages, which answer is most accurate?
+   A. The damages should be limited to those damages that were within the contemplation of the
+      parties at the time of breach.
+   B. The damages for breach should be limited to those damages that were within the
+      contemplation of the parties at the time the parties entered into the contract.
+   C. Damages should be limited to those damages that adequately compensate Zieto for the
+      value of the benefit Zieto conferred upon Sowell.
+   D. Damages should be awarded that sufficiently protects social policy.
+
+Question 11:
+
+Assume for purposes of the question that Zieto discovers that Sowell’s construction of the
+shopping mall’s north and south walls is defective. As a result, Zieto suffers serious distress
+because of the Sowell’s breach and must be hospitalized due to constant stress over the safety of
+the shopping mall. Which answer is most accurate?
+
+   A. Zieto may recover damages for emotional disturbance.
+   B. Zieto may recover damages for emotional disturbance and attorney’s fees.
+   C. Zieto may not recover damages for emotional disturbance.
+   D. Zieto may not recover damages of any kind unless Sowell committed a tort.
+
+Question 12 through 14 are based on the following facts:
+
+Dr. Sasha contracts to build a time machine for Anna for $300,000. After Dr. Sasha has spent
+$75,000 in labor and material, and has been paid $50,000 in progress payments, Anna repudiates
+the contract and Dr. Sasha stops working. Dr. Sasha’s expenses include $15,000 of materials that
+she can use on another job. It would have cost Dr. Sasha another $275,000 to complete
+construction of the time machine had Anna not repudiated the contract.
+
+Question 12:
+
+If Dr. Sasha sues Anna for reliance damages, which answer best represents the amount a court
+would award Dr. Sasha?
+
+      A. $10,000
+      B. $0
+      C. $75,000
+      D. $60,000
+
+Question 13:
+
+If Dr. Sasha sues Anna for restitution damages, which answer best represents the amount a court
+would award Dr. Sasha?
+
+
+      A. $10,000
+      B. $0
+      C. $75,000
+      D. $60,000
+
+Question 14:
+
+If Dr. Sasha pursues expectation damages, which answer is most accurate?
+
+   A. The loss in value should be based on Anna’s expected increased in wealth.
+   B. The loss in value should be based on Dr. Sasha’s expected profits.
+   C. The loss in value should be based on Dr. Sasha’s expenditures.
+   D. The loss in value should be based on the difference between the value to Dr. Sasha of the
+      performance that should have been received and the value to Dr. Sasha of what, if anything,
+      was received.
+
+
+Question 15:
+
+Musa contracts to repair Marsha’s electrical system for $10,000, with payment due after the work
+is complete. Musa makes repairs costing him $8,000, but inadvertently fails to follow the
+specifications in such material respects that there is no substantial performance. Musa’s mistake
+cannot be corrected without the destruction of large portions of Marsha’s entire building. But the
+work increases the value of Marsha’s building by $4,000. In the performance of his work, Musa
+employed a subcontractor that charged Musa $2,000. But other contractors in the area would have
+charged Musa $1000. If Musa sues Marsha for restitution, which amount is most accurate
+regarding what a court will award?
+
+       A. $8,000
+       B. $1,000
+       C. $4,000
+       D. $3,000
+
