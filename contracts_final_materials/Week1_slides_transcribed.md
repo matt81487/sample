@@ -94,7 +94,7 @@ E. A & B are correct. **Answer: E.**
 (Contrast Mel Frank: regulation limiting one use when the lease allows general uses.)
 
 ## Tom Wood (impracticability: substitute goods available)
-(Fact slide not captured: Tom contracted to sell oak to Shawn; a hurricane destroyed the facility where Tom stored the oak he planned to use.)
+Tom must deliver $1M of oak wood to Shawn on January 6. Oak is plentiful locally (multiple facilities). On January 2, Tom's personally owned oak storage facility is destroyed by a sudden hurricane neither party anticipated. Unknown to Shawn, Tom is rendered virtually broke and has no oak to deliver because he planned to deliver from his own facility. Shawn sues; Tom defends using impracticability. Which is most accurate? A. Tom is excused because of impracticability. B. Tom is excused because of frustration of purpose. C. Tom prevails because of the unforeseen natural disaster. D. Shawn prevails.
 **Answer: D. Shawn prevails.** Not impracticable merely because the particular facility Tom intended to use was destroyed; oak remains readily available from other sources. Unless the contract made performance depend on that facility or identified stock, Tom bears the risk of getting substitute goods. An unforeseen event alone isn't enough; it must make the promised performance impracticable, not just destroy the promisor's preferred or cheapest means. A: substitute oak is available. B: not frustration; Shawn still wants the oak. C: a natural disaster doesn't automatically excuse performance.
 
 ## Benson Farm (R261, R265)
@@ -126,3 +126,23 @@ Raymond hired Lisa's Contracting to build a house to specifications for $300K. M
 - A mistake is a belief not in accord with the facts, about a fact existing when the contract is made. Not voidable when the adversely affected party bears the risk, including by an "as is" clause.
 - **Mutual mistake, R152 & R154 = "BEN":** B = Basic assumption on which the contract was made; E = material Effect on the agreed exchange; N = adversely affected party does Not bear the risk.
 - Lenawee: both were mistaken, but the purchasers assumed the risk through the "as is" clause ("Purchaser has examined this property and agrees to accept same in its present condition. There are no other or additional written or oral understandings."), so rescission was unavailable.
+
+
+## The Gas Station (I): frustration fails, a mere loss isn't enough
+Aaron leases a gas station from Betsy "for the sale of gas" for $5K/month for 3 years. 6 months in, a government regulation dramatically reduces the cost of gas, so Aaron can't operate except at a substantial financial loss. Aaron closes and stops paying rent. Betsy sues. Who likely prevails?
+A. Aaron, because a government regulation created a frustration of purpose. B. Aaron, because no party should be forced to operate at a loss. C. Betsy, because operating the station is not substantially frustrated. D. Betsy, because the non-occurrence of the regulation was a basic assumption on which the contract was made. E. A & B.
+(Answer slide not captured. Likely **C**: gas can still lawfully be sold; the purpose isn't substantially frustrated, and lost profitability alone doesn't excuse (R265). D misstates the test, since a basic assumption favors the party seeking excuse, not Betsy. Contrast Gas Station II, where the regulation bars gas sales outright → E.)
+
+## Q9 Analysis (R250, Ill. 7): repudiation by voluntary act
+(Q9 fact slide not captured: Susan's voluntary act makes her performance to DePaul impossible before the due date.)
+A wrong: repudiation doesn't require an express verbal refusal. **B correct:** Susan's voluntary act makes timely performance impossible or apparently impossible (R250(b)). C wrong: anticipatory repudiation lets DePaul act before the performance date. D wrong: adequate assurances under R251 aren't a prerequisite where there's already been an actual repudiation.
+
+## Q11 (58% got it right): David & Betty music license (R250, Ill. 9)
+May 1: David agrees to sell and Betty to buy David's music license for $500,000; delivery and payment due September 1. June 17: an enforceable modification moves delivery and payment to August 31 at the Law Offices of Drift & Swift. David then learns his daughter's wedding is August 31 and writes: "I will not deliver the music license unless you agree to accept delivery on September 1 at the Law Offices of Drift & Swift." Betty's rights upon receiving the letter?
+A. Must wait until August 31 before treating it as a breach. B. May treat the letter as an immediate repudiation and pursue remedies for total breach. C. No claim because David hasn't yet failed to perform. D. Must agree to September 1 and may then sue for any damages.
+**Answer: B.** It's a repudiation even though the concession sought is only a one-day postponement. David isn't merely announcing a minor delay; he is saying, in effect, "I will not perform my contractual obligation unless you surrender your contractual right to performance."
+
+## Q12 (64% got it right): Bob & Sarah, 114 N. Lakeshore Drive
+May 1: Bob contracts to sell and Sarah to buy 114 N. Lakeshore Drive for $520,000; deed and payment due September 1. August 15, Sarah tells Bob: "I am not sure that I can proceed with the purchase, and, in fact, I do not intend to do so unless I am legally obligated." Which is most accurate?
+A. Sarah repudiated because she stated she doesn't intend to complete the purchase. B. Sarah repudiated because her statement creates reasonable doubt about whether she'll perform September 1. C. Sarah hasn't repudiated because her statement isn't sufficiently definite and unequivocal to indicate she won't perform. D. Sarah hasn't repudiated because repudiation can't occur until performance is due.
+(Analysis slide not captured. Likely **C**: she says she WILL perform if legally obligated, and she is, so this is doubt, not a definite refusal (R250 cmt b). Doubt is the trigger for demanding adequate assurance under R251, which is why B is the trap; D is wrong per Hochster. Confirm with Jones's key.)
