@@ -80,3 +80,49 @@ A. No repudiation; May 10 merely proposed a modification. B. Repudiated May 10 b
 ## Coach Momo Analysis (R253: no anticipatory claim when only payment remains)
 (Fact slide not captured: Momo delivered a Range Rover on June 1; Ralph owes $73,000 on June 15; Ralph's June 2 angry letter refuses to pay; Momo sues June 6.)
 **Answer: Coach Momo must wait until June 15 to sue.** Ralph's June 2 letter is definite enough to be a repudiation, but under R253 a repudiation doesn't give an immediate total-breach claim when the repudiating party has already received the entire agreed exchange for its promise to pay. Momo fully performed June 1; Ralph's only remaining duty is to pay on June 15. If Ralph doesn't pay then, Momo may sue. That Ralph is known for outrageous statements when angry doesn't change the result; the limit comes from R253, not uncertainty about his meaning. (Week 4 notes: "Read R. 253 carefully - Coach Momo Analysis.")
+
+## Cherry Wood: full facts (answer above)
+Pursuant to a contract, Tina agreed to purchase $1M worth of cherry wood from Sean on January 6. On January 8 the stock market crashes. Unknown to Sean, Tina was heavily invested and relied on her stock holdings to pay for the wood. The crash leaves her with merely $26K in financial assets and losses of $2.9M. Broke, Tina doesn't buy the wood and closes her furniture business until the market recovers, if ever. Sean sues; Tina claims she's excused. A. Tina prevails under impracticability. B. Tina prevails because of frustration of purpose. C. Tina does not prevail because wood can be stored. D. Tina does not prevail. **Answer: D.**
+
+## Gas Station II (frustration + supervening illegality)
+(Fact slide not captured: Aaron leases a gas station from Betsy; a new government regulation bars the gas sales that were the lease's purpose.)
+A. Aaron, because a government regulation created a frustration of purpose. ✓ (the regulation destroyed the principal purpose, gas sales)
+B. Aaron, because a supervening government regulation renders the contract's primary purpose illegal. ✓ (classic supervening illegality; performance tied to gas sales is excused)
+C. Betsy, because the station can still sell snacks and beverages. ✗ (snacks are incidental, not the lease's primary purpose)
+D. Betsy, because nonoccurrence of the regulation wasn't a basic assumption. ✗ (a basic assumption WAS that Aaron could lawfully sell gas)
+E. A & B are correct. **Answer: E.**
+(Contrast Mel Frank: regulation limiting one use when the lease allows general uses.)
+
+## Tom Wood (impracticability: substitute goods available)
+(Fact slide not captured: Tom contracted to sell oak to Shawn; a hurricane destroyed the facility where Tom stored the oak he planned to use.)
+**Answer: D. Shawn prevails.** Not impracticable merely because the particular facility Tom intended to use was destroyed; oak remains readily available from other sources. Unless the contract made performance depend on that facility or identified stock, Tom bears the risk of getting substitute goods. An unforeseen event alone isn't enough; it must make the promised performance impracticable, not just destroy the promisor's preferred or cheapest means. A: substitute oak is available. B: not frustration; Shawn still wants the oak. C: a natural disaster doesn't automatically excuse performance.
+
+## Benson Farm (R261, R265)
+Ben, a farmer, contracts to deliver 500 pounds of potatoes to Sara in 3 months for $175K. The contract doesn't say where they'll be grown; both assume Ben's farm, though not required. Ben properly plants on his farm; a tornado destroys it and he can't deliver. Sara can't sell french fries without potatoes. Sara offers to walk away if Ben pays $30K; he refuses. Sara sues; Ben defends under R261 and R265.
+A. Sara prevails because she tried in good faith to resolve the dispute and cover losses. B. Ben prevails because of the basic assumption of the parties. C. Ben prevails because of frustration of purpose or impracticability. D. Sara prevails.
+(Answer slide not captured. Following Tom Wood: the contract didn't require Ben's own farm, so potatoes from other sources remain available and the tornado doesn't make performance impracticable; frustration is the wrong doctrine for the seller. Likely **D. Sara prevails**. Contrast R261 Ill. where the contract requires crops from a particular farm. Confirm with Jones's key if shown.)
+
+## The Restaurant (R241, R242: minor breach, timely offer to cure)
+ABC hired IMB Construction to renovate a restaurant for $600,000: start by April 1, finish by May 25, so it could open June 5. No one from IMB showed up April 1. On April 2 at 8 am, CEO Harry called VP Lisa Moon, admitted he "dropped the ball" because his assistant was in a minor car accident and hospitalized for observation, and said IMB would add 2 laborers and work overtime to finish early, by April 20. ABC wasn't injured and the work could still be done, but Lisa lost confidence, didn't want her first task as VP to be a "bust," told Harry they breached and ABC wouldn't pay or use them, and barred them from the property. IMB sues.
+A. IMB likely prevails because its CEO apologized and timely offered to cure. B. IMB likely prevails because it only missed 1 work day. C. ABC likely prevails because IMB breached. D. ABC likely prevails because Moon isn't obligated to excuse or waive IMB's material breach.
+**Answer: A.** Under R241 & R242, the 1-day delay wasn't a material or total breach: IMB promptly offered to cure and could still finish early; ABC suffered no harm, so termination was wrongful. B: the number of days isn't decisive; the timely offer to cure and lack of harm are. C: not every breach excuses performance; at most a minor breach, promptly cured. D: not a total breach, so Moon couldn't treat the contract as discharged.
+
+## Raymond v. Lisa (willful abandonment defeats substantial performance)
+Raymond hired Lisa's Contracting to build a house to specifications for $300K. Mid-construction, Lisa wins a lucrative $4M hospital contract that must start in 24 hours, stops work at 80-85% completion, and leaves the flooring, painting, heating, AC, doors and cabinets unfinished. Raymond pays nothing. Lisa claims substantial performance.
+**Answer: Raymond prevails.** Essential items were left undone, making the house fundamentally uninhabitable, and the breach was willful (the hospital job). Jacob & Youngs: willful abandonment defeats substantial performance. Raymond may withhold payment (material breach) and recover the cost of completion by another contractor. Lisa isn't entitled to the contract price; she might claim the reasonable value of work performed to prevent unjust enrichment, but not under substantial performance.
+
+## Joan's Carpet: Jones's analysis (R226)
+(Facts as in TWEN.) R226: a condition need not be express; it can be implied from the agreement, the circumstances, or by law. In landlord-tenant repair clauses, courts almost always treat reasonable notice by the tenant as an implied condition precedent to the landlord's duty to repair. Without notice the landlord can't perform, so no duty to pay for resulting damage arises. Applied: the lease was silent, but the court implies Joan had to timely notify; she delayed April 29 to May 5, so the carpet was ruined before Landlord could act; Landlord repaired immediately on notice. **The implied condition wasn't satisfied, so the landlord's duty to cover the carpet never arose. Landlord prevails.**
+
+## enXco Development Corp. v. Northern States: Minimum Learning Objectives (R224-230, 237, 239, 245)
+- Know what language creates an express condition. No magic words, but language must unmistakably make performance conditional: "if," "when," "provided that," "unless," "until."
+- Express conditions ordinarily require STRICT compliance; if one doesn't occur, the conditioned duty doesn't become due unless the condition is waived or excused.
+- Issue: Was NSP required to close when enXco failed to satisfy the express condition precedent to obtain the final, nonappealable permit by the Long-Stop Date? (No.)
+- Rule (R224): a condition is an event, not certain to occur, that must occur before performance becomes due, unless its nonoccurrence is excused.
+- Doctrine of Prevention (R245): when a party's breach by nonperformance contributes materially to the nonoccurrence of a condition of that party's own duty, the nonoccurrence is excused.
+
+## Lenawee County Board of Health v. Messerly: Minimum Learning Objectives (R152, 154)
+- Issue: can a mutual mistake about habitability (defective septic system) justify rescinding a purchase contract with an "as is" clause?
+- A mistake is a belief not in accord with the facts, about a fact existing when the contract is made. Not voidable when the adversely affected party bears the risk, including by an "as is" clause.
+- **Mutual mistake, R152 & R154 = "BEN":** B = Basic assumption on which the contract was made; E = material Effect on the agreed exchange; N = adversely affected party does Not bear the risk.
+- Lenawee: both were mistaken, but the purchasers assumed the risk through the "as is" clause ("Purchaser has examined this property and agrees to accept same in its present condition. There are no other or additional written or oral understandings."), so rescission was unavailable.
