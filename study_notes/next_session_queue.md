@@ -53,3 +53,11 @@ Build BOTH variants side by side, so the user practices the difference:
 
 ## CIV PRO (11/18 class: Erie rehash + semester review)
 - Added to outline rows 72 and 75 (purpose test definition, IIED example, balancing rarely used, flagged test questions). Notes saved in class_notes/Civ_Pro_11-18-26_Class_Notes.docx.
+
+## CONTRACTS WEAK SPOT (11/20): breaching-party restitution, build more of these into future Contracts sets
+- Missed: Corbin/Ingrid pole barn (set "Contracts Final: 20 more", Q14). Answered 40,000 (= $70K reasonable value − $30K paid). Correct: 11,000.
+- Professor's method: breaching party recovers the LESSER of
+  (a) cost avoided = contract price − replacement cost − owner's other losses, and
+  (b) new wealth = value of the finished job − replacement cost − owner's other losses,
+  MINUS payments already received. The breacher's reasonable value of work is a DISTRACTOR, not the measure.
+- Future sets: include 2–3 breaching-party restitution fill-ins per Contracts set (builders, employees, sellers), vary which measure is lesser, include the reasonable-value distractor, and sometimes make the answer $0 (payments exceed the lesser measure).
