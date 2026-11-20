@@ -74,3 +74,6 @@ Stick to the syllabus Restatement sections and cases plus TWEN problem types (se
 - CIV PRO: mirror the Fall 2025 final (exams/CivPro_Fall2025_Final.pdf + AnswerKey): 5 options, same-facts groups repeated in each question, "X and Y are both correct" / "All of the above" combos, "four correct, one INCORRECT" questions, TV-show names. Still only outline rules, exactly one Erie question (no test application).
 - CON LAW: mirror the practice midterm's depth (exams/ConLaw_PracticeMidterm_F26_*.pdf): 4 options (A–D), long nuanced choices, binding-precedent questions, applied hypotheticals, across the whole outline universe.
 - App size is ~15.17MB of 16MB. Before the next big round, move older sets out of the page file (into the db) so new sets fit.
+
+## BUILD RULE (11/20): explanation letters must follow the shuffle
+Found and fixed a bug: explanations that name wrong answers by letter ("C confuses...") were written before choices were shuffled, so 44 explanations across this session's sets pointed at the wrong letters. Fixed in the app consts plus a one-time migration (meta 'explfix1') for saved sets. Every future build must remap letter references when it moves a choice (work/fixletters.py: remap()).
