@@ -1,0 +1,1478 @@
+                                CIVIL PROCEDURE I
+                                    JD 411 – 44551
+                            Professor Sonia Bychkov Green
+                        Wednesday, December 10, 2025 – 6:00 pm
+                                        3 hours
+                      *AT UIC LAW, on your laptops – Room TBA*
+                                        EXAM
+
+INSTRUCTIONS
+
+OVERVIEW:
+  • This Exam is Internet Secure. You will have access to electronic notes/books but
+     NOT internet connected notes/books.
+  • This is open electronic notes and books.
+  • This is open hard-copy notes and books.
+  • You will take this entire exam through Examplify.
+  • You must carefully read and adhere to all instructions. Failure to do so can result
+     in failure of the course or any other penalty that the administration or I deem
+     appropriate.
+  • PLEASE NOTE THE UIC LAW “Policy on Items Prohibited in the Examination
+     Rooms” AND PLAN ACCORDINGLY!
+
+DETAILS:
+  • You have _3 hour(s) to complete this exam. Do NOT continue to write or input
+      answers after the stop time has been called. Do NOT modify your exam
+      submission after time has expired.
+  • There are 60            multiple-choice questions.
+
+TECHNICAL ISSUES AND GUIDELINES:
+   • If you are unable to start or complete your exam on Examplify or you experience
+     any other technical issue, attempt one restart of your computer. If unsuccessful, let
+     your proctor know you have attempted a restart for next steps. If you do not have a
+     proctor, please contact law-exams@uic.edu as you would onsite.
+   • If you are unable to upload your exam submission file at the end of the exam,
+     email the registrar’s office at law-exams@uic.edu immediately for next steps. Do
+     not contact me or the IT Help Desk.
+   • You will NOT need to input your Midterm/Final Exam Token ID into Examplify.
+     This will be added automatically by Examplify after submitting the exam through
+     the system.
+   • Do NOT contact me regarding submissions. This may compromise your
+     anonymity. Please contact law-exams@uic.edu.
+ILLNESS:
+   • If you experience illness immediately before the exam, please send an email
+      message to Dean Spanbauer (jspanbau@uic.edu) and CC law-exams@uic.edu. Do
+      not contact me. And feel better!
+   • If you experience illness during an exam, please alert your proctor. If there is no
+      proctor, please contact Dean Spanbauer (jspanbau@uic.edu) and CC law-
+      exams@uic.edu. Do not contact me. And feel better!
+   TIME MANAGEMENT, POINTS and QUESTION FORMAT:
+   •   The total number of points you can earn is 180. There are 60 multiple-choice
+       questions: each is worth 3 points for a correct answer. You should plan to spend
+       on average 3 minutes per question.
+   •   Each question has five answers that follow. There is one “best” answer for each
+       question.
+   •   Some questions use the same fact pattern, and that pattern is repeated before each
+       question. Those questions will say at the start (for example), “Same facts for
+       questions 1 and 2 repeated in each question” and will state the common facts.
+       Then, you will see “Question:” and any additional facts specific to that question
+       and the specific question that you are answering.
+
+ACADEMIC INTEGRITY, ANONYMITY, AND PLEDGE:
+  • The exam must be 100% your own work. You may not get information from any
+    other student during the exam.
+  • To ensure the security of this exam, you are prohibited from disclosing or discussing
+    the details of the questions after all students in the class have taken the exam.
+    Because of scheduling conflicts, illness, etc., other students may be taking this exam
+    before or after you do. There may be students who have incompletes. In short: DO
+    NOT DISCUSS THE EXAM.
+  • If you are taking the exam later than the rest of the class, you may not discuss the
+    exam with any classmates who have already taken the exam.
+  • You may not take screenshots of or copy/save any part of the exam.
+  • You may not email me about the exam or discuss it with me until AFTER grades
+    have been submitted. This is very important so that we can preserve anonymity.
+        o Do NOT email me with any questions about or issues on the exam.
+        o If you see an issue during the exam, reach out to the exam proctor or to
+            law-exams@uic.edu.
+        o If you saw an issue during the exam about one of the questions and you
+            want me to know your concern, please email law-exams@uic.edu.
+        o Any emails that you need to send me that are NOT exam related should
+            have “NOT EXAM RELATED” in the subject line.
+   •   Honor Pledge for each student:
+       “By submitting my answers to this exam, I acknowledge that I have read and
+       understood the examination instructions and the Law School’s Honor and
+       Professionalism Code. I have not provided or accepted unauthorized assistance on
+       this examination, engaged in any other form of dishonesty, gained an unfair
+       advantage on the examination, or violated the exam instructions provided with this
+       exam. I understand that engaging in conduct that violates the Code will result in
+       sanctions under that Code and/or UIC's Code of Student Discipline.”
+
+
+NOTE FROM PROFESSOR GREEN:
+MY ASSURANCE TO YOU
+I will review the total number of correct answers for every single question and any emails I
+get from the administration about any issues with the exam. I will go through every single
+question and if less than half the class got it right, and/or there were issues reported with
+that question, I will review it carefully and adjust my answer key as needed. Adjustments
+will ONLY be made to benefit students.
+                                 Good luck and do your best!!
+QUESTIONS
+
+
+
+
+   1. Same facts for questions 1 and 2, repeated in each question.
+
+Facts: Marshall (a Minnesota citizen) and Lily (a New York citizen) run a small event-planning
+business in Manhattan. Their intern, Barney, designs an advertisement that accidentally uses
+copyrighted photos belonging to Robin, a Canadian citizen living in New York. The business did
+not pay Robin for use of these photos. Robin has a contract with Marshall and Lily where they
+pay her for some photographs to use on their business’ website, but which prohibits the use of
+any of her copyrighted works.
+
+Question: Robin sues Marshall and Lily in federal court under the federal Copyright Act, seeking
+$100,000 in damages. The defendants move to dismiss the claim for lack of subject-matter
+jurisdiction. What is the court likely to find?
+
+   A. Diversity jurisdiction exists because there is diversity of citizenship and the amount
+      in controversy is met.
+   B. There is no diversity jurisdiction because Robin is not a US Citizen.
+   C. Federal-question jurisdiction does not exist because Robin is not a US Citizen.
+   D. A and C are both correct.
+   E. There is neither federal question nor diversity jurisdiction, so the case must be filed
+      in state court.
+   2. Same facts for questions 1 and 2, repeated in each question.
+
+Facts: Marshall (a Minnesota citizen) and Lily (a New York citizen) run a small event-planning
+business in Manhattan. Their intern, Barney, designs an advertisement that accidentally uses
+copyrighted photos belonging to Robin, a Canadian citizen living in New York. The business did
+not pay Robin for use of these photos. Robin has a contract with Marshall and Lily where they
+pay her for some photographs to use on their business’ website, but which prohibits the use of
+any of her copyrighted works.
+
+Question: Robin sues Marshall and Lily in federal court under the federal Copyright Act and
+wants to add a second claim for breach of contract for $50,000 under New York law. The
+defendants move to dismiss the second claim for lack of subject-matter jurisdiction. What is the
+court likely to find?
+
+A. There is no diversity jurisdiction over the second claim because Robin is not a US citizen.
+
+B. Subject matter jurisdiction does not exist because the main dispute is about contracts, so the
+second claim should be dismissed.
+
+C. Subject matter jurisdiction exists because the copyright claim arises under federal law, and the
+state-law claim can fall within supplemental jurisdiction.
+
+D. There is neither federal question nor diversity jurisdiction, so the contracts claim must be filed
+in state court.
+
+E. B and C are both correct.
+   3. Rachel, a citizen of Pennsylvania, sues Monica, a citizen of Illinois, in federal court for
+      breach of contract, seeking $200,000 in damages.
+      Monica properly impleads Joey, who is also a citizen of Pennsylvania.
+      After Joey is brought in, Rachel wants to add a claim against him arising out of the same
+      contract dispute as her claim against Monica.
+      Joey moves to dismiss for lack of subject-matter jurisdiction, and Rachel argues that
+      supplemental jurisdiction should apply.
+
+What is the likeliest outcome?
+
+A. As long as the exceptions in §1367(c) don’t apply, supplemental jurisdiction will give the
+court subject-matter jurisdiction over Rachel’s claim.
+B. Supplemental jurisdiction will not apply to Rachel’s claim because the exception in §1367(b)
+prevents its application.
+C. Supplemental jurisdiction will give the court subject-matter jurisdiction over Rachel’s claim
+because it was Monica who impleaded Joey, not Rachel.
+D. Supplemental jurisdiction will not apply because Rachel seeks a separate recovery from Joey.
+E. A and C are both correct.
+   4. Same facts for questions 4, 5, and 6, repeated in each question.
+
+Facts: At Lumon Industries, several employees claim ownership of the same large end-of-year
+bonus. Helly, Irving, and Dylan all insist that they were promised the funds by different
+supervisors. The Lumon payroll department, unsure who actually deserves the money, wants to
+deposit the disputed bonus into court and have the court determine who should receive it.
+
+Question: What procedural device can Lumon use to protect itself from multiple liability and
+resolve the competing claims in one action?
+
+   A. Joinder of parties under Rule 20.
+      B. Intervention under Rule 24.
+      C. Interpleader under Rule 22.
+      D. Compulsory joinder under Rule 19.
+      E. Severance under Rule 21.
+
+
+
+   5. Same facts for questions 4, 5, and 6, repeated in each question.
+
+       Facts: At Lumon Industries, several employees claim ownership of the same large end-
+       of-year bonus. Helly, Irving, and Dylan all insist that they were promised the funds by
+       different supervisors. The Lumon payroll department, unsure who actually deserves the
+       money, wants to deposit the disputed bonus into court and have the court determine who
+       should receive it.
+
+Question: Let’s assume that there is a lawsuit by Lumon now properly pending with Helly,
+Irving, and Dylan in the suit. Shortly after this begins, another employee—Ms. Cobel—learns
+about the dispute and claims that she, too, was promised part of the bonus pool under a separate
+management-incentive plan. She files a motion asking the court to let her join the case so she can
+assert her own interest in the disputed funds. What procedural mechanism best allows Ms. Cobel
+to become part of the case?
+
+A. Permissive joinder under Rule 20.
+B. Intervention under Rule 24.
+C. Interpleader under Rule 22.
+D. Impleader under Rule 14.
+E. Severance under Rule 21.
+   6. Same facts for questions 4, 5, and 6, repeated in each question.
+
+       Facts: At Lumon Industries, several employees claim ownership of the same large end-
+       of-year bonus. Helly, Irving, and Dylan all insist that they were promised the funds by
+       different supervisors. The Lumon payroll department, unsure who actually deserves the
+       money, wants to deposit the disputed bonus into court and have the court determine who
+       should receive it.
+
+Question: Let’s assume that there is a lawsuit by Lumon now properly pending with Helly,
+Irving, and Dylan, and Mrs. Cobel properly in the suit. One week later, several more
+employees—Mr. Milchick, Ms. Casey, and Mr. Graner—each try to join the suit, arguing that
+they, too, were promised parts of the disputed bonus. The case now involves seven parties,
+overlapping claims, and multiple theories of recovery. If the case becomes unmanageably
+complex, what procedural step can the court take to simplify the proceedings?
+
+A. Consolidate all claims under Rule 19.
+
+B. Dismiss the case for lack of subject matter jurisdiction.
+C. Order separate trials or sever certain claims under Rule 42.
+
+D. Require Lumon to withdraw the suit and refile as a class action.
+E. Compel arbitration under Rule 38.
+   7. Rachel Zane, a Louisiana citizen, sues Donna Paulsen, a Montana citizen, in Louisiana
+      state court for breach of contract.
+      Donna would prefer to litigate in federal court and considers filing for removal.
+      Depending on the remaining facts, which of the following could properly justify
+      removal?
+
+       A. She can prove that removal is appropriate if she can show federal-question
+       jurisdiction.
+       B. She can prove that removal is appropriate if she can show supplemental jurisdiction.
+       C. She can prove that removal is appropriate if she can show that there is diversity
+       jurisdiction.
+       D. All of the above are correct.
+       E. A and C are correct.
+
+
+
+
+8.     Assuming the necessary requirements are met, how can a case that started out
+being filed in a state court eventually end up at any level of the federal court system?
+
+          A. It can be removed from a state trial court to a federal appellate court.
+         B.      It can be removed from a state trial court to a federal trial court.
+         C.      It can be appealed from a state supreme court to the U.S. Supreme Court.
+            D. B and C are both correct.
+            E. A and C are both correct.
+   9. Janine Teagues, a teacher who designs innovative classroom software, sues her former
+      collaborator, Ava Coleman, in federal court for patent infringement under federal law.
+      Ava denies infringement and claims that Janine’s lawsuit was a ploy to eliminate
+      competition, amounting to a violation of federal antitrust law. Ava seeks both
+      compensatory and punitive damages and plans to file a counterclaim.
+
+Four of the statements below are correct, and one is incorrect. Which of the following is
+incorrect?
+
+
+A. Ava can assert a counterclaim against Janine whether the claim is related to the original claim
+or not.
+B. If Ava and Janine are from the same state, it will destroy subject matter jurisdiction over the
+counterclaim.
+    C. If a counterclaim is brought, Janine may be able to implead a third party who might
+        have caused her to bring the original claim.
+        D. Janine may be able to add a related state law claim to the suit.
+        E. Ava can add a counterclaim, and, separately, can also implead a third-party
+        defendant.
+
+
+10.     Below are five statements summarizing the old (Pennoyer) rule about personal
+jurisdiction. Which of these statements best summarizes the old rule?
+
+               A.             Personal jurisdiction is proper if defendant was physically
+               present in the state while served with process or his property in the state was
+               seized prior to the start of the lawsuit.
+               B.             Personal jurisdiction is proper if defendant has minimum
+               contacts with the forum.
+               C.             Personal jurisdiction is proper if defendant was physically
+               present in the state while served with process or his property in the state was
+               seized prior to the start of the lawsuit or it was reasonably foreseeable that
+               he could be sued there.
+               D.              Personal jurisdiction is proper if defendant was physically
+               present in the state while served with process or his property in the state was
+               seized after the start of the lawsuit.
+               E.             Personal jurisdiction is proper if defendant was physically
+               present in the state while served with process or his property in the state was
+               seized after the start of the lawsuit or defendant knew that he could be sued
+               there.
+11. Which of the following must be true for a state court to properly exercise subject matter
+jurisdiction over a case?
+
+A. The parties must be citizens of different states, unless the defendant is being sued in his own
+state.
+B. The amount in controversy must be less than $75,000.
+C. The case cannot involve a federal question.
+D. The case cannot arise under a federal statute that gives exclusive jurisdiction to the federal
+courts.
+E. Both parties must be residents of the same state.
+
+
+
+   12. Ruxin and Taco are at a crowded sports bar in Chicago watching the Bears game. As the
+       crowd erupts after a touchdown, Taco suddenly feels someone shove him from behind.
+       He stumbles forward, crashes into a table, and lands awkwardly on his wrist. The fall
+       leaves him with multiple fractures and destroys the expensive watch he just bought to
+       celebrate a big fantasy football win. His total injuries exceed $85,000.
+
+Taco sues Ruxin, believing that Ruxin pushed him. Ruxin knows he didn’t—he was talking to
+Andre at the time, and Andre, who has never liked Taco, was the one who did the pushing.
+
+What can Ruxin do when Taco sues him?
+
+   A. Ruxin can implead Andre.
+      B. Ruxin can counterclaim against Taco and implead Andre.
+      C. Ruxin can implead anyone who saw Andre shove Taco to support his defense.
+      D. Ruxin can argue as a defense that it was Andre, not Ruxin, who pushed Taco.
+      E. C and D are both correct.
+13. Same facts for Questions 13 and 14, repeated in each question.
+
+Facts: Dr. Miranda Blake was born in Seattle, Washington, in 2000. She lived there until 2025,
+when she married Dr. Rafael Torres, who works full time at a hospital in Miami, Florida.
+Miranda agreed that she would live with him in Florida for six months each year (December
+through May). For the remaining six months, she returns to Seattle to help teach surgical
+residents at Grey Sloan Memorial Hospital. Both Miranda and Rafael are comfortable with this
+arrangement.
+
+Question: If there were a lawsuit involving a dispute about Miranda’s domicile, which of the
+following is most likely?
+
+A. Miranda is not domiciled anywhere because she divides her time evenly between two states.
+B. Miranda is domiciled in Washington.
+C. Miranda is domiciled in both Washington and Florida.
+D. Miranda is domiciled in Florida because her husband lives and works there.
+E. Miranda’s domicile changes every six months depending on where she is physically located.
+
+
+
+14. Same facts for Questions 13 and 14, repeated in each question.
+
+Facts: Dr. Miranda Blake was born in Seattle, Washington, in 2000. She lived there until 2025,
+when she married Dr. Rafael Torres, who works full time at a hospital in Miami, Florida.
+Miranda agreed that she would live with him in Florida for six months each year (December
+through May). For the remaining six months, she returns to Seattle to help teach surgical
+residents at Grey Sloan Memorial Hospital. Both Miranda and Rafael are comfortable with this
+arrangement.
+
+Question: What kind of legal dispute would require a court to determine where Miranda is
+domiciled?
+
+A. If Miranda were sued in federal court in Washington by a Washington citizen on a state-law
+claim.
+B. If Miranda were sued in Florida for something unrelated to her activities in Florida.
+C. If Miranda were sued in Washington for something unrelated to her activities there.
+D. All of the above.
+E. A and C only.
+15. Marcus Rashford, a forward for Manchester United, sues Jack Grealish, a midfielder for
+Manchester City, in federal court over a dispute involving a book deal they co-wrote about
+teamwork and leadership. Grealish believes Rashford breached their contract and wants to bring
+a counterclaim against him. Which of the following is/are true?
+
+A. If a counterclaim is permissive, there may be supplemental jurisdiction over it.
+
+B. If a counterclaim is compulsory, there will be supplemental jurisdiction over it.
+
+C. If a counterclaim is compulsory and is not asserted in the lawsuit, it can be asserted in a later
+lawsuit as long as diversity jurisdiction is met.
+D. All of the above.
+E. A and B are true.
+
+
+
+16. Elaine has a state law claim for $50,000 against Newman arising out of a car accident that
+occurred when Newman backed his mail truck into her car. Jerry also has a state law claim for
+$50,000 against Newman from the same incident—Newman’s truck rolled forward and hit
+Jerry’s Saab parked nearby. Both Elaine and Jerry are from New York. Newman is from New
+Jersey. Elaine and Jerry file a single lawsuit together in federal court. Newman moves to dismiss
+for lack of subject matter jurisdiction.
+
+Is the court likely to find that there is subject matter jurisdiction over the two claims?
+
+A. Yes, because there is diversity of citizenship.
+B. Yes, because their claims arise from the same incident, so they can aggregate their claims to
+meet the amount in controversy.
+C. No, because two plaintiffs cannot add the totals of their claims together to meet the amount in
+controversy, and neither one meets it alone.
+D. No, because two plaintiffs may not bring claims together in federal court.
+E. A and B are both correct.
+17. In which type of case does a federal court apply the Erie doctrine?
+
+A. When a state court hears a case involving a federal question.
+
+
+B. When a federal court is applying the Federal Rules of Evidence.
+C. When a state law claim is tried in state court.
+D. When a federal agency is interpreting its own regulations.
+
+E. When a federal court is hearing a case based on diversity jurisdiction.
+18. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: Could Dr. Javadi successfully argue that a court in Pennsylvania has general
+jurisdiction over Dr. Patel?
+
+A. Maybe, but only if Dr. Patel’s website shows purposeful availment through the effects test.
+B. Yes, but only if the case is filed in federal court.
+C. Maybe, but only if Dr. Patel’s business activities in Pennsylvania are so substantial as to
+render her essentially at home there.
+D. Yes, because Dr. Patel is domiciled in Texas.
+E. B and D are both correct.
+19. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: Which additional facts, if true, would strengthen Dr. Javadi’s argument that Dr. Patel
+purposefully availed herself of Pennsylvania?
+
+   A. MindMap Tech regularly runs targeted ads to Pennsylvania hospitals.
+   B. Dr. Patel knew the app’s promotional image resembled a Pennsylvania physician.
+   C. MindMap Tech earns 25% of its revenue from Pennsylvania customers.
+   D. All of the above.
+   E. A and C are correct.
+20. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: If Dr. Javadi wants to be sure that she can establish personal jurisdiction where she
+sues, where would be the safest place to sue Dr. Patel?
+
+A. Federal court only, since diversity would apply.
+B. Texas, because that is where Dr. Patel is likely to be found to be domiciled and operates the
+company.
+C. There is no single “safe” place without knowing where the alleged tort had its main effect.
+D. Pennsylvania, because that is where Dr. Javadi is domiciled.
+E. B and D are both correct.
+21. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: Why might it matter whether visitors to www.mindmaptech.com can purchase or
+download the app directly from the website?
+
+       A. It could show that the company purposefully targets customers nationwide.
+       B. It could demonstrate a high level of website interactivity, relevant to purposeful
+       availment.
+       C. It could help prove that Dr. Javadi herself used the website.
+       D. All of the above.
+
+       E. A and B are correct.
+22. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: If Dr. Javadi wants to argue that there is specific personal jurisdiction over Dr. Patel in
+Pennsylvania, how could Dr. Javadi use the fact that Pennsylvania is Dr. Javadi’s home?
+
+a. To prove that Dr. Patel purposefully availed herself of doing business in Pennsylvania.
+b. To prove that Pennsylvania is interested in the suit.
+
+c. To prove that Dr. Patel is essentially at home in Pennsylvania.
+d. To show that Dr. Javadi is essentially at home in Pennsylvania.
+e. A and B are both correct.
+23. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: Assume Dr. Javadi wants to sue in Pennsylvania. Her lawyer advises that it may be
+difficult to show that the lawsuit arises out of Dr. Patel’s conduct in Pennsylvania or that Dr.
+Patel is “essentially at home” there. Could Dr. Javadi still get personal jurisdiction in
+Pennsylvania?
+
+a. Yes, but only if Dr. Patel visits Pennsylvania and is personally served while present there.
+b. No, because Dr. Patel would not have sufficient minimum contacts with Pennsylvania.
+c. Yes, but only if Dr. Patel consents to jurisdiction in Pennsylvania.
+d. A and C are both correct.
+e. No, because Dr. Patel is not domiciled in Pennsylvania.
+24. Same facts for Questions 18 – 24, repeated in each question.
+
+Facts:
+Dr. Victoria Javadi is a neurologist who was born and raised in Pittsburgh, Pennsylvania. After
+completing her residency at UPMC, she joined The Pitt Medical Center as an attending
+physician. In 2020, Dr. Javadi began working part-time with a national telemedicine network,
+NeuroLink Health, which allows her to consult with patients remotely. Dr. Javadi lives in
+Pittsburgh most of the year, but for part of each winter (December through March), she stays in
+Austin, Texas, where her husband, Nurse Mateo Rios, works full-time at a children’s hospital.
+
+In early 2023, Dr. Javadi learned from a former classmate that a Texas-based startup, MindMap
+Tech, was promoting a new mental health app called FocusMe, featuring an image of a woman
+in scrubs with dark curly hair, a stethoscope, and a distinctive birthmark identical to Dr. Javadi’s.
+The image was used as the app’s clickable logo and appeared on marketing materials online.
+
+The founder of MindMap Tech, Dr. Zuri Patel, operates the business from Austin, Texas, and
+maintains a website, www.mindmaptech.com, where the app can be previewed and downloaded.
+The site lists Dr. Patel’s Austin address and business email but does not include any physical
+retail locations. Anyone in the U.S. can access the website, and the app has been downloaded
+thousands of times, including by several users in Pennsylvania.
+
+Dr. Javadi is upset. She never consented to the use of her likeness, and she believes this could
+interfere with her future opportunities for media and medical brand endorsements. She is
+considering filing a lawsuit for violation of her right of publicity and misappropriation of
+likeness.
+
+Pennsylvania’s long-arm statute provides: “The courts of this state have jurisdiction over any
+person to the fullest extent permitted by the U.S. Constitution.”
+Texas’s long-arm statute provides: “The courts of this state have jurisdiction over any
+nonresident who transacts business in or commits a tort in this state. A nonresident is anyone
+who lives outside of Texas for more than six months of any year.”
+
+Question: After learning that Dr. Javadi was considering a lawsuit, Dr. Patel became concerned
+that Dr. Javadi had defamed MindMap Tech in some meetings with her team in Pittsburgh. Dr.
+Javadi also presented at a large conference in Pittsburgh, and Dr. Patel believes that Dr. Javadi
+made some untrue comments. Dr. Patel, claiming that these statements harmed MindMap Tech’s
+reputation and caused a significant drop in Texas-based downloads and investor interest, files a
+defamation lawsuit in Texas state court against Dr. Javadi. Can Dr. Patel show that Texas’
+long-arm statute applies?
+
+A. Maybe, if MindMap Tech has a physical retail presence in Texas.
+
+B. No, because Dr. Javadi made her statements from Pennsylvania, so no part of the tort occurred
+in Texas.
+
+C. Maybe, if the alleged tort caused injury in Texas, and if that could satisfy the statute’s
+requirement that a nonresident commit a tort “in the state.”
+D. Yes, because Dr. Javadi lives part time in Texas.
+E. A and C are both correct.
+25. Same facts for Questions 25 and 26, repeated in each question.
+
+Facts: Coach Ted Lasso, a U.S. citizen domiciled in Kansas, sues Rebecca Welton, a British
+citizen domiciled in the Northern District of Illinois, in federal court for a state-law breach of
+contract claim worth $100,000. Rebecca is properly served at her home in London.
+
+Question: Rebecca moves to dismiss for lack of subject matter jurisdiction. Is there diversity
+jurisdiction?
+
+A. Yes, because there is diversity of citizenship: a US citizen just needs to be plaintiff or
+defendant.
+B. No, because there must be complete diversity of citizenship on both sides, and there is no state
+of which the defendant is a citizen since she is not a U.S. citizen.
+C. Yes, because there will be personal jurisdiction if the defendant was properly served.
+D. No, because there would be no personal jurisdiction over a non-U.S. defendant.
+E. B and D.
+
+
+
+26. Same facts for Questions 25 and 26, repeated in each question.
+
+Facts: Coach Ted Lasso, a U.S. citizen domiciled in Kansas, sues Rebecca Welton, a British
+citizen domiciled in the Northern District of Illinois, in federal court for a state-law breach of
+contract claim worth $100,000. Rebecca is properly served at her home in London.
+
+Question: If Rebecca has a decent argument that the case would be better litigated in a U.K.
+court, because the facts and witnesses are primarily located there, which of the following is the
+best procedural way to achieve that result?
+
+A. Move to dismiss for improper venue.
+B. Move for transfer of venue from federal court to the foreign country court.
+C. Move to transfer for forum non conveniens.
+D. Move to dismiss for forum non conveniens.
+E. C or D would achieve that result.
+27. Carmy’s Original Beef is a small restaurant in Chicago, Illinois, known for its simple
+sandwich logo and iconic “Beef It” branding.
+Sydney, a former sous-chef, opens a new spot in nearby Evanston called “Original Bite.” Her
+logo is nearly identical — a sandwich silhouette with the same font and design style.
+
+Question: If Carmy’s Original Beef sues “Original Bite” in federal court for copyright
+infringement, will the court have subject-matter jurisdiction?
+
+A. Yes, but only if the amount in controversy exceeds $75,000.
+B. Yes, but only if “Original Bite” is based in Illinois.
+C. A and B are both correct.
+D. Yes, because the claim arises under federal copyright law.
+
+E. No, because copyright cases must be filed in state court.
+
+
+
+
+28.      Vandelay Industries is an import–export company incorporated in Delaware, with its
+         principal place of business in New York. Elaine Benes sues Vandelay in federal court in
+         Illinois, claiming breach of contract under state law. The question arises: where is
+         Vandelay “at home,” and of which state(s) is it a citizen for purposes of subject-matter
+         jurisdiction? Which statement best expresses both doctrines?
+
+      A. A corporation is a citizen of the forum where it has continuous and systematic contacts,
+         which could be many states, but it is subject to general jurisdiction only where it is
+         incorporated and has its principal place of business.
+      B. A corporation, for diversity, is a citizen of the state where it is incorporated, and the same
+         single-state analysis applies to personal jurisdiction.
+
+      C. A corporation, for diversity, is a citizen of the forum where it is “at home,” which is
+         typically one state, and is subject to general jurisdiction there as well.
+
+      D. A corporation can be subject to general jurisdiction anywhere it is “essentially at home,”
+         but for diversity purposes it is a citizen only of its state of incorporation and its principal
+         place of business if that is different from state of incorporation.
+
+      E. A corporation can be subject to general jurisdiction anywhere it is “at home,” yet for
+          diversity purposes it is only a citizen of its state of incorporation—which can be only one
+          state.
+29. The state of Illinois has three federal district courts. If a defendant from Missouri is
+    sued in the Southern District of Illinois and challenges personal jurisdiction, what
+    long arm statute will the Southern District Court use to decide that part of the
+    challenge?
+
+   A.      The Missouri long arm statute because the court geographically closest to
+           Missouri.
+   B.      The Illinois long arm statute because the court is located in Illinois.
+   C.      The long arm statute of the federal courts because it is a federal court.
+   D.      The long arm statute that plaintiff argues that the court should use.
+   E.      A and B are both correct.
+
+
+30. How does transfer of civil cases compare when looking at the state systems and
+    the federal system?
+
+A. In the federal system, a case can be transferred from one federal district court
+   to another.
+B. In both, a case can be transferred from one court to another, even across state
+   lines.
+C. In the state systems, a case cannot be transferred from one state court to another.
+D. In the federal system, a case cannot be transferred from one federal district court
+   to another.
+E. A and C are both correct.
+31. Same facts for Questions 31 and 32, repeated in each question.
+
+   Facts: Shondell is a painter who lives and works in Chicago, Illinois. She is known for
+   capturing quiet, everyday moments in a strikingly realistic style. Recently, Shondell noticed
+   two public billboards displaying works that appear to copy her paintings. One billboard
+   features a piece by Althea, a well-known multimedia artist who lives in New York and
+   usually works with sculpture but said she was “inspired” to try a new medium. The other
+   billboard features a piece by an artist known only as Moth, an emerging creator who has
+   never revealed their real name or location. Shondell consults Mika, a solo attorney who
+   regularly handles copyright infringement suits. Mika files a federal copyright lawsuit in the
+   Northern District of Illinois on Shondell’s behalf, naming both Althea and Moth as
+   defendants.
+
+   Question: Of the following statements, which best describes the rules governing the notice
+   Mika must provide to each defendant?
+
+A. Mika must serve each defendant personally at their home address since each is being sued
+individually.
+B. Mika must provide notice consistent with what is reasonably possible for each defendant—
+meaning she may have to use different forms of service for the two artists.
+C. Mika needs to provide notice only to the defendant whose address she knows; no notice is
+required for the one whose identity remains unknown.
+D. Mika must follow the applicable state court rules for notice, since federal courts rely on state
+procedures.
+E. Mika may satisfy notice requirements for both defendants through minimal efforts, such as
+publishing notice in a newspaper, because one is hard to locate and she is a sole practitioner.
+32. Same facts for Questions 31 and 32, repeated in each question.
+
+   Facts: Shondell is a painter who lives and works in Chicago, Illinois. She is known for
+   capturing quiet, everyday moments in a strikingly realistic style. Recently, Shondell noticed
+   two public billboards displaying works that appear to copy her paintings. One billboard
+   features a piece by Althea, a well-known multimedia artist who lives in New York and
+   usually works with sculpture but said she was “inspired” to try a new medium. The other
+   billboard features a piece by an artist known only as Moth, an emerging creator who has
+   never revealed their real name or location. Shondell consults Mika, a solo attorney who
+   regularly handles copyright infringement suits. Mika files a federal copyright lawsuit in the
+   Northern District of Illinois on Shondell’s behalf, naming both Althea and Moth as
+   defendants.
+
+   Question: Assume both defendants are properly served. Which of the following best
+   describes their ability to challenge the lawsuit in Illinois?
+
+A. Only Althea can challenge personal jurisdiction because Moth’s identity is unknown.
+B. Only Moth can challenge personal jurisdiction because Althea is well known and easily
+located.
+C. Both Althea and Moth can challenge personal jurisdiction, and each challenge will be
+evaluated separately based on their own contacts with Illinois.
+D. Neither can challenge personal jurisdiction once the federal court accepts the complaint.
+E. Both must challenge personal jurisdiction together since they are named as co-defendants in
+the same suit.
+
+33. If Padma, a plaintiff from Pennsylvania, is suing Dante, a Defendant from Delaware and
+Padma is suing in Delaware, will it be harder for Padma to prove purposeful availment or
+general jurisdiction?
+
+   A. It will be harder to prove purposeful availment because it requires intent.
+   B. It will be harder to prove general jurisdiction because it requires more consistent
+      contacts and a greater volume of contacts.
+   C. They would be equally difficult to prove.
+   D. It will be harder to prove purposeful availment because purposeful availment
+      requires that Padma’s suit arises out of Dante’s connections with the forum.
+   E. A and D are both true.
+34. How might we compare interpleader and compulsory joinder of parties?
+
+   a.    They are both frequently used tools of adding parties to a dispute.
+      b. Interpleader requires that all necessary parties be joined in the suit, since
+         intervention is not allowed when there is an interpleader.
+      c. Interpleader is a way to resolve a question of ownership of property, but if
+         an interpleader is not brought and a potential owner sues whoever currently
+         has the property, the property holder may be able to claim that the other
+         potential owner is a necessary party, and without them, the case should be
+         dismissed.
+   d.    They both eliminate the need for personal jurisdiction over a defendant.
+   e.    All of the above.
+
+35. Which of the following activities could likely be enough to satisfy purposeful
+    availment, for the purpose of proving specific (personal) jurisdiction?
+
+A. If a defendant intentionally does any one of these: buys property in a state,
+   sells something in a state, advertises their products in a state, chooses to go
+   on vacation in a state, drives on the roads of a state.
+B. If a defendant intentionally does any one of these: buys property in a state,
+   sells something in a state, advertises their products in a state, chooses to go
+   on vacation in a state.
+C. If a defendant intentionally does any one of these: buys property in a state,
+   sells something in a state, advertises their products in a state.
+D. If a defendant intentionally does any one of these: buys property in a state,
+   sells something in a state.
+E. None of the above.
+36. Rhea is a business owner in Portland, Oregon. Oregon is a state that has just one
+    Federal District Court. Rhea runs a mobile pet grooming business, focusing on
+    exotic animals; she operates it out of a large van. Rhea has lived in Oregon her
+    whole life. Rhea decides to expand her business and buys a second van from JJ
+    and Mayah. JJ and Mayah both reside in Washington state: JJ resides in the
+    Western District, and Mayah, in the Eastern District. Rhea wants to sue in federal
+    court. Where can she sue and not have the case dismissed for improper venue?
+
+       A. The Eastern District of Washington.
+       B. The Western District of Washington.
+       C. The District Court of Oregon.
+       D. All of the above are correct.
+       E. Answers A and B are both correct.
+
+37. Which of these statements best expresses how a state court in Idaho and the federal
+    district court for Idaho would analyze personal jurisdiction?
+
+       A. The Idaho state court will only consider the Idaho long arm statute.
+       B. The federal district court will consider the Idaho long arm statute and
+          whether personal jurisdiction is constitutional.
+       C. Both the state court and the federal court will consider the Idaho long arm
+          statute and whether personal jurisdiction is constitutional.
+       D. The federal district court will only consider whether personal jurisdiction is
+          constitutional.
+       E. None of the above.
+   38. Same facts for questions 38 and 39, repeated in each question.
+
+Facts: Lloyd Pierce runs a business providing high-end horseback and backcountry gear to
+wealthy tourists visiting Big Sky, Montana. Rip Wheeler sources premium saddles, ropes, and
+winter gear and sells them to Lloyd at a reduced price; Lloyd sells the items in his shop in town.
+Their contract states Rip will be Lloyd’s exclusive supplier, though Rip may also sell directly to
+consumers. Rip negotiated this arrangement by giving Lloyd a steep discount on wholesale
+pricing.
+
+Question: Walker Yellowstone, a very wealthy tech investor and rodeo enthusiast from
+California, comes to Big Sky for a bachelor-party weekend with twenty friends. He buys gear for
+everyone, spending several hundred thousand dollars. Walker is known nationwide, and both Rip
+and Lloyd extend him credit.
+
+Two months later, Walker is investigated for major data-privacy violations, hit with massive
+penalties, and files for bankruptcy. Rip sues Walker in federal court. Lloyd would like to
+intervene in the suit. Assume diversity exists and Lloyd’s claim is for $100,000.
+
+Which of the following must Lloyd prove if he wants to intervene as of right?
+
+                     A. That Lloyd has an interest in the suit and the interest is at risk.
+                        B. That Lloyd’s intervention is timely.
+                        C. That Rip is not adequately representing Lloyd’s interest.
+                        D. All of the above.
+                        E. Any one of A, B, and C would allow Lloyd to intervene as of right.
+   39. Same facts for questions 38 and 39, repeated in each question.
+
+Facts: Lloyd Pierce runs a business providing high-end horseback and backcountry gear to
+wealthy tourists visiting Big Sky, Montana. Rip Wheeler sources premium saddles, ropes, and
+winter gear and sells them to Lloyd at a reduced price; Lloyd sells the items in his shop in town.
+Their contract states Rip will be Lloyd’s exclusive supplier, though Rip may also sell directly to
+consumers. Rip negotiated this arrangement by giving Lloyd a steep discount on wholesale
+pricing.
+
+Question: Now assume that instead of Walker Yellowstone, a new gear supplier, Cody
+Langmore, arrives in Big Sky and markets his equipment to Lloyd. Lloyd signs a contract with
+Langmore, which states Langmore will now be the exclusive supplier for Lloyd’s shop.
+
+Rip learns of this and files suit in federal court for breach of contract against Lloyd. In response,
+what could Lloyd try to do?
+
+A. Bring a motion to dismiss Rule 19, arguing that not all of the necessary parties are in the suit.
+B. Bring a motion to dismiss under Rule 12(b)(7), arguing that, pursuant to Rule 19, not all of the
+necessary parties are in the suit.
+C. Bring a motion to dismiss under Rule 12(b)(1) for lack of subject matter jurisdiction, because
+not all the necessary parties are in the suit.
+D. Bring a motion to dismiss under Rule 12(b)(1) for lack of personal jurisdiction arguing that
+there are no minimum contacts.
+E. A and D are both correct.
+
+40. For this problem, assume that there are four separate and different lawsuits brought in the
+Southern District of Illinois (a federal court). Each of these suits is for breach of contract (a state
+law claim). In each one, plaintiff seeks recovery of $100,000.
+Suit 1: Three plaintiffs (two from Illinois and one from Nebraska) and two defendants (both from
+Illinois)
+Suit 2: One Plaintiff (from Illinois), and one defendant (from New York).
+Suit 3: One plaintiff (from Arkansas), and one defendant who domiciled in Kansas but is living in
+Arkansas.
+Suit 4: One plaintiff (from Illinois), and three defendants (from Mexico).
+All four plaintiffs allege that there is subject matter jurisdiction because of diversity. In all four
+suits, the defendant(s) file a motion to dismiss for lack of subject matter jurisdiction. In which of
+the suits will the motion to dismiss succeed and the court find that diversity is not met?
+
+A. Suit 1 only.
+B. Suit 4 only.
+C. Suits 1 and 3.
+D. Suits 2, 3, and 4.
+E. All four suits.
+41. If plaintiff is seeking to prove that a forum has general jurisdiction over a defendant whom
+the plaintiff is suing, what does plaintiff need to prove?
+
+                  A.   That the defendant has minimum contacts with the forum.
+                  B.   That the defendant is essentially “at home” in the forum.
+                  C.   That the plaintiff has minimum contacts with the forum.
+                  D.   That the defendant has purposefully availed himself of the forum
+                  E.   That the defendant is essentially “at home” in his own state.
+42. Cramblin Duvet Advertising is a small marketing firm based in Detroit. The company
+    creates custom ad campaigns and promotional items for local businesses, including car
+    dealerships and diners. One of their main suppliers is Motor City Plastics, a Detroit-based
+    manufacturer that provides Cramblin Duvet with glossy acrylic signs and display materials.
+
+     After a few successful months, Motor City Plastics suddenly stops sending supplies—
+     even though the companies have a written contract requiring monthly shipments. The
+     supplier explains that it halted production because of a recently passed federal law
+     prohibiting the sale or use of plastic goods “primarily intended for promotional or
+     decorative purposes.”
+
+     Worried about losing clients, Cramblin Duvet sues Motor City Plastics in federal district
+     court in Michigan for breach of contract. Motor City Plastics files a Rule 12(b)(1) motion
+     to dismiss for lack of subject matter jurisdiction. Which of the following is the likeliest
+     result?
+
+     A. The federal district court has subject matter jurisdiction through federal question
+     because the federal law banning plastic promotional items will be involved.
+     B. The federal district court will decide whether it has subject matter jurisdiction after
+     seeing whether the defendant raises the federal law in their complaint.
+     C. The federal district court might have subject matter jurisdiction if the lawsuit ends up
+     focusing mostly on the federal law.
+
+
+     D. The federal district court has subject matter jurisdiction through both diversity and
+     federal question.
+
+     E. The federal district court does not have subject matter jurisdiction through diversity or
+     through federal question.
+ 43. Rule 12b provides grounds for procedural motions to dismiss. Of the motions below,
+     which cannot be made through Rule 12b?
+
+   A. There is no subject matter jurisdiction.
+   B. Plaintiff is liable to defendant on a counterclaim.
+   C. Venue is improper.
+   D. Plaintiff failed to bring all of the necessary parties into the suit.
+   E. There is no personal jurisdiction.
+
+ 44. Same facts for questions 44 and 45, repeated in each question:
+
+       Facts: H. Specter and M. Ross represent law firm Pearson Hardman LLP, which has sued
+       a former client, Rand & Calder, in federal court in New York for breach of contract. The
+       claim arises entirely under New York state law, but the case is in federal court based on
+       diversity jurisdiction. During the litigation, a dispute arises over whether the court should
+       apply New York’s rule, which allows recovery of attorney’s fees for parties who win in
+       bad-faith contract disputes, or the federal rule, which does not. The judge notes that the
+       issue depends on whether the rule is substantive or procedural under the Erie doctrine.
+
+       Question: Why does the court need to decide whether the rule is substantive or
+       procedural?
+
+A. Because federal courts must apply state substantive law but follow federal procedural law
+when hearing state-law claims.
+B. Because the classification determines whether the case should be tried in state or federal
+court.
+C. Because the distinction decides whether diversity jurisdiction exists.
+D. Because substantive rules only apply if both parties are from the same state.
+E. All of the above.
+ 45. Same facts for questions 44 and 45, repeated in each question:
+
+       Facts: H. Specter and M. Ross represent law firm Pearson Hardman LLP, which has sued
+       a former client, Rand & Calder, in federal court in New York for breach of contract. The
+       claim arises entirely under New York state law, but the case is in federal court based on
+       diversity jurisdiction. During the litigation, a dispute arises over whether the court should
+       apply New York’s rule, which allows recovery of attorney’s fees for parties who win in
+       bad-faith contract disputes, or the federal rule, which does not. The judge notes that the
+       issue depends on whether the rule is substantive or procedural under the Erie doctrine.
+
+Question: The court must now decide which test to use to determine whether the issue is
+substantive or procedural under the Erie doctrine. Which of the following best describes the tests
+that the court could use?
+
+   A. The Outcome-Determinative Test, which would ask whether resolution of that issue
+      would affect the outcome of the case: if yes, then the issue is procedural; if no, then it is
+      substantive.
+   B. The Outcome-Determinative Test, which would ask whether resolution of that issue
+      would affect the outcome of the case: if yes, then the issue is substantive; if no, then it is
+      procedural.
+   C. The Purpose test, which would ask what the purpose is of the rule that governs the issue.
+   D. A and C are both correct.
+   E. B and C are both correct.
+46. Of the answers below, which one(s) best compares the old (Pennoyer) test and the
+    modern test for personal jurisdiction?
+
+ A. The modern test is more focused on the defendant’s connections and fairness than
+    the Pennoyer test was.
+ B. The Pennoyer test was more focused on the defendant’s connections and fairness
+    than the modern test is.
+ C. The modern test requires looking at a long arm statute, but that is the only real
+    difference.
+ D. The tests are almost identical now that transient jurisdiction is part of the modern
+    test.
+ E. Answers C and D are both correct.
+47. Same facts for questions 47, 48, and 49, repeated in each question.
+
+   Facts: Esmeralda Grand is a citizen of Ohio. She owns a historic brick townhouse in the
+   Old West End neighborhood of Toledo, Ohio. Great Lakes Daily Media (“GLDM”) is also
+   a citizen of Ohio. GLDM purchases an abandoned medical clinic next door to Esmeralda’s
+   home to convert it into a new newsroom and production studio for its daily newspaper, The
+   Metro, where Esmeralda works.
+
+   GLDM hires Domnhall Build & Demo, a construction company that is a citizen of
+   Wisconsin, to handle demolition and reconstruction. During demolition, the shaking is
+   intense: dishes fall off Esmeralda’s shelves, cracks appear in the foundation, and the house
+   shifts nearly two inches toward the construction site. The home’s value drops significantly,
+   and major repairs are required.
+
+   Frustrated, Esmeralda buys a full-page ad in a national newspaper criticizing Domnhall
+   Build & Demo. She also sues Domnhall in the Northern District of Ohio (federal court) for
+   negligence (state law), seeking $1.5 million.
+
+   Question: After the suit has begun, Esmeralda learns that Great Lakes Daily Media worked
+   closely with Domnhall Build & Demo on the architectural plans, safety reports, and permit
+   filings. She realizes she also has a negligence claim against GLDM and seeks to add
+   GLDM to the lawsuit, seeking an additional $500,000 in damages. GLDM moves to
+   dismiss Esmeralda’s claim against them. What is a likely result?
+
+   A. The joinder rules do not allow Esmeralda’s claim, so there would not be subject matter
+   jurisdiction, and the claim would be dismissed.
+   B. The joinder rules allow Esmeralda’s claim which also means there would be subject
+   matter jurisdiction.
+   C. The joinder rules do not allow Esmeralda’s claim, but there would be subject matter
+   jurisdiction, so the claim would not be dismissed.
+   D. The joinder rules allow Esmeralda’s claim, but there would not be subject matter
+   jurisdiction, so the claim would be dismissed.
+   E. The joinder rules allow Esmeralda’s claim, and that is all that is needed, so that claim
+   would not be dismissed.
+48. Same facts for questions 47, 48, and 49, repeated in each question.
+
+   Facts: Esmeralda Grand is a citizen of Ohio. She owns a historic brick townhouse in the
+   Old West End neighborhood of Toledo, Ohio. Great Lakes Daily Media (“GLDM”) is also
+   a citizen of Ohio. GLDM purchases an abandoned medical clinic next door to Esmeralda’s
+   home to convert it into a new newsroom and production studio for its daily newspaper, The
+   Metro, where Esmeralda works.
+
+   GLDM hires Domnhall Build & Demo, a construction company that is a citizen of
+   Wisconsin, to handle demolition and reconstruction. During demolition, the shaking is
+   intense: dishes fall off Esmeralda’s shelves, cracks appear in the foundation, and the house
+   shifts nearly two inches toward the construction site. The home’s value drops significantly,
+   and major repairs are required.
+
+   Frustrated, Esmeralda buys a full-page ad in a national newspaper criticizing Domnhall
+   Build & Demo. She also sues Domnhall in the Northern District of Ohio (federal court) for
+   negligence (state law), seeking $1.5 million.
+
+Question: In the Esmeralda v. Domnhall Build & Demo lawsuit, Domnhall wants to add a
+counterclaim. The counterclaim is based on a federal statute allowing certain businesses to sue
+for false or damaging statements published in national media. Domnhall argues that
+Esmeralda’s full-page ad caused reputational and financial harm.
+
+   Do we need to know how related that counterclaim is to Esmeralda’s original negligence
+   claim?
+
+A. Yes. The counterclaim can only be added if it is related.
+B. No. The counterclaim can be added if it is related or not, and Esmeralda cannot challenge
+subject matter jurisdiction because she is a plaintiff.
+C. Yes. The counterclaim can be added even if it is unrelated, but there will not be subject
+matter jurisdiction over it because supplemental jurisdiction will not apply.
+D. No. The counterclaim can be added if it is related or not, and the court will have subject
+matter jurisdiction over it through federal question.
+E. Yes. If the counterclaim is related, Domnhall will lose that lawsuit if they do not bring the
+counterclaim.
+ 49. Same facts for questions 47, 48, and 49, repeated in each question.
+
+     Facts: Esmeralda Grand is a citizen of Ohio. She owns a historic brick townhouse in the
+     Old West End neighborhood of Toledo, Ohio. Great Lakes Daily Media (“GLDM”) is also
+     a citizen of Ohio. GLDM purchases an abandoned medical clinic next door to Esmeralda’s
+     home to convert it into a new newsroom and production studio for its daily newspaper, The
+     Metro, where Esmeralda works.
+
+     GLDM hires Domnhall Build & Demo, a construction company that is a citizen of
+     Wisconsin, to handle demolition and reconstruction. During demolition, the shaking is
+     intense: dishes fall off Esmeralda’s shelves, cracks appear in the foundation, and the house
+     shifts nearly two inches toward the construction site. The home’s value drops significantly,
+     and major repairs are required.
+
+     Frustrated, Esmeralda buys a full-page ad in a national newspaper criticizing Domnhall
+     Build & Demo. She also sues Domnhall in the Northern District of Ohio (federal court) for
+     negligence (state law), seeking $1.5 million.
+
+Question: Assume that Domnhall was able to file its counterclaim for false and damaging
+statements against Esmeralda. Esmeralda would like to argue that if she is liable to Domnhall, at
+least some of that is the fault of MetroMetrics PR, a national consulting firm who advised her on
+what to say in her add. MetroMetrics PR is a citizen of California. Esmeralda seeks to implead
+MetroMetrics into the case under Rule 14, asserting a negligence (state-law) claim for
+professional malpractice, and seeking $200,000 in damages. MetroMetrics moves to dismiss.
+What is the likely result?
+
+                  A. Impleader is allowed, and diversity jurisdiction exists, so the claim will
+                     not be dismissed.
+                  B. Impleader is allowed, which means that the court will have subject matter
+                     jurisdiction.
+                  C. Impleader is not allowed because Esmeralda is a plaintiff, and plaintiffs
+                     can never implead third parties.
+                  D. Impleader is not allowed because it is without merit, so subject matter
+                     jurisdiction cannot exist.
+                  E. Impleader is allowed, but since Esmeralda does not have a federal
+                     question claim, the court lacks subject matter jurisdiction.
+ 50. Cory Ellison, a high-profile media executive living in Missouri, hires Mia Jordan, a private
+     investigator who lives in Chicago, Illinois and runs her investigative firm from there, to
+     discreetly gather information related to a story.
+
+Mia later reveals confidential information Cory provided to her. Cory wants to sue her for
+defamation and negligent infliction of emotional distress, seeking damages in excess of
+$100,000. Both claims arise under state law.
+
+Cory files suit in state court in Missouri. Which of the following is correct?
+
+A. Mia cannot remove to federal court because the amount in controversy is not met.
+B. Mia cannot remove to federal court because Cory is suing in his home state.
+
+C. Mia can remove the case to federal court because diversity jurisdiction applies.
+D. Mia can remove the case to federal court because federal question applies.
+
+E. C and D are both correct.
+
+
+
+
+ 51. Assume a defendant lives in State A but owns a vacation home in State B. The defendant is
+     later sued in State B for a claim unrelated to the property. The plaintiff argues that the
+     defendant’s property ownership in State B supports personal jurisdiction. Which of the
+     following best describes how ownership of property in a state affects the personal-
+     jurisdiction analysis?
+
+     A. Ownership of property in a state automatically creates general jurisdiction over any
+     claim.
+     B. Ownership of property is irrelevant unless the lawsuit directly concerns the property
+     itself.
+     C. Ownership of property may give the forum state a legitimate interest in the dispute and
+     may also show purposeful availment.
+     D. Ownership of property creates automatic consent to personal jurisdiction over all
+     lawsuits arising anywhere in the state.
+     E. Ownership of property allows personal jurisdiction only if the suit is unrelated to the
+     property.
+52. Same facts for Questions 52 and 53, repeated in each question.
+
+Facts: Elle Woods, a citizen of California, and Emmett Richmond, a citizen of Massachusetts,
+meet while attending law school in Massachusetts. They decide to go into business together
+selling high-end pink legal stationery and accessories. They sign a written contract for their
+venture.
+
+Question: Assume that the contract states, “Any suit about this contract must be brought in a
+court in the state of New Mexico.” The business falls apart, and Elle sues Emmett in New
+Mexico for breach of contract. Emmett is served at his home in Massachusetts and has no other
+contacts with New Mexico. Emmett moves to dismiss for lack of personal jurisdiction.
+
+What is the likely result?
+
+A. The New Mexico court will have personal jurisdiction over Emmett unless he proves he
+signed the contract under duress.
+B. The New Mexico court will have personal jurisdiction over Emmett because he was properly
+served at his home.
+C. The New Mexico court will have personal jurisdiction over Emmett because of the forum-
+selection clause, but only if the suit is in a federal court in New Mexico.
+D. The New Mexico court will have personal jurisdiction only if the New Mexico long-arm
+statute applies to Emmett.
+E. A and B are both correct.
+53. Same facts for Questions 52 and 53, repeated in each question.
+
+Facts: Elle Woods, a citizen of California, and Emmett Richmond, a citizen of Massachusetts,
+meet while attending law school in Massachusetts. They decide to go into business together
+selling high-end pink legal stationery and accessories. They sign a written contract for their
+venture.
+
+Question: Assume that the contract includes a clause stating, “Any dispute about this contract
+will be governed by the laws of Massachusetts.” The business relationship falls apart, and
+Emmett sues Elle in Massachusetts state court for breach of contract (a state-law claim). Emmett
+serves Elle at her home in California. What effect does the clause have on the lawsuit?
+
+A. The clause means Massachusetts must dismiss the case.
+B. The clause could help establish that California has an interest in the case for purposes of
+specific personal jurisdiction.
+C. The clause could help establish that a federal court in California has subject matter
+jurisdiction through federal question jurisdiction.
+D. The clause has no legal effect, because the parties cannot choose a state.
+E. A and B are both correct.
+   54. Dr. Whatley and Dr. Kaplan are both dentists. Dr. Kaplan works in Milwaukee,
+       Wisconsin, where he has always lived. Dr. Whatley works in New York, where he has
+       always lived.
+
+Each of them enters into a contract with SummerOfTooth, a Wisconsin company that sells
+cleaning supplies to dental offices. Each dentist pays SummerOfTooth $100,000 under the terms
+of the contract. SummerOfTooth fails to deliver anything to either dentist.
+
+Each dentist wants to sue SummerOfTooth (in separate lawsuits). Each would have a breach-of-
+contract (state law) claim for $100,000.
+
+Which of the following most accurately describes where each could sue?
+
+A. Dr. Whatley can sue SummerOfTooth in federal court or state court, but Dr. Kaplan can only
+sue SummerOfTooth in state court.
+B. Both Dr. Whatley and Dr. Kaplan can sue SummerOfTooth in federal court or state court.
+C. Dr. Kaplan can sue SummerOfTooth in federal court or state court, but Dr. Whatley can only
+sue SummerOfTooth in state court.
+D. Neither Dr. Whatley nor Dr. Kaplan can sue SummerOfTooth in federal court, but each can
+sue SummerOfTooth in state court.
+E. Neither Dr. Whatley nor Dr. Kaplan can sue SummerOfTooth in state court, but each can sue
+SummerOfTooth in federal court.
+   55. Same facts for questions 55 and 56, repeated in each question.
+
+Facts: Robin Buckley is a specialty weapon-maker in Hawkins, Indiana, where she works with
+her family’s shop crafting decorative prop weapons (fantasy swords, axes, and replicas used for
+fandom displays).
+
+Robin is invited to a supernatural-folklore conference in Boston, Massachusetts and buys a plane
+ticket. Her flight from Indiana has a layover in Chicago, Illinois, and Robin is excited to spend a
+couple of hours exploring the city. She posts her plans publicly on Instagram.
+
+Erica Sinclair, a former business competitor from Hawkins who now lives in Chicago, sees the
+post.
+
+Question: Erica has a claim she wants to bring against Robin. When Robin arrives in Chicago,
+she heads downtown, visits the Sears Tower observation deck, and posts a photo on Instagram.
+Erica waits until Robin is physically present in Chicago and hires a process server to serve Robin
+in Chicago. Robin challenges personal jurisdiction in the suit. Does Illinois have personal
+jurisdiction over Robin, and why/why not?
+
+A. Yes. Physical presence at time of service is enough of a contact to warrant personal
+jurisdiction.
+B. Maybe. It depends entirely on whether she has other contacts with the state.
+C. No. The physical assertion of power through service of process – the “grab the person” rule
+from Pennoyer – disappeared when the modern test was created.
+D. Maybe. It depends on whether the suit is in state or federal court.
+E. A and D are both correct.
+   56. Same facts for questions 55 and 56, repeated in each question.
+
+Facts: Robin Buckley is a specialty weapon-maker in Hawkins, Indiana, where she works with
+her family’s shop crafting decorative prop weapons (fantasy swords, axes, and replicas used for
+fandom displays).
+
+Robin is invited to a supernatural-folklore conference in Boston, Massachusetts and buys a plane
+ticket. Her flight from Indiana has a layover in Chicago, Illinois, and Robin is excited to spend a
+couple of hours exploring the city. She posts her plans publicly on Instagram.
+
+Erica Sinclair, a former business competitor from Hawkins who now lives in Chicago, sees the
+post.
+
+Question: Assume now that Erica does not want to go after Robin individually but instead wants
+to being a claim against Robin’s family business, Buckley Blades & Co. When Robin arrives in
+Chicago, she heads downtown, visits the Sears Tower observation deck, and posts a photo on
+Instagram. Erica waits until Robin is physically present in Chicago and hires a process server to
+serve Robin in Chicago in the lawsuit that she is bringing against Buckley Blades & Co. Buckley
+Blades & Co. challenges personal jurisdiction. Does Illinois have personal jurisdiction over
+Buckley Blades & Co, and why/why not?
+
+   A. Yes. Physical presence at time of service is enough of a contact to warrant personal
+      jurisdiction.
+      B. Maybe. It depends entirely on whether Robin herself has other contacts with the state.
+      C. Maybe. It depends on whether Robin is in a role within the company significant
+      enough that she can receive service on behalf of the company.
+      D. No. The physical assertion of power through service of process – the “grab the
+      person” rule from Pennoyer – disappeared when the modern test was created.
+      E. B and C are both correct.
+   57. Same facts for questions 57, 58, and 59, and 60, repeated in each question.
+
+Facts: Kataryna is a British entrepreneur who recently relocated to Bethesda, Maryland, just
+outside Washington, D.C. She decides to launch an exclusive private club aimed at international
+diplomats, policy advisors, and visiting dignitaries. To finance the venture, she secures several
+investors and borrows more than $500,000 from a bank.
+
+One investor is her boyfriend, Hal, who verbally promised he would help support the project.
+Another investor is Billie, with whom Kataryna signs a written contract stating that Billie will
+indemnify Kataryna for any debts incurred in connection with the venture.
+
+When Kataryna cannot repay the bank loan, the bank sues her in federal court, relying on a
+federal statute authorizing this type of recovery.
+Kataryna is a citizen of the United Kingdom. Hal and Billie are citizens of New York.
+
+During her months in Bethesda, Kataryna stays at the 212Hotel Bethesda, an independent luxury
+boutique hotel, based in Maryland. The hotel later sues Kataryna in federal court for $90,000,
+bringing a state-law tort claim relating to unpaid charges.
+
+Question: This question concerns only the lawsuit filed by the bank. As part of her defense
+strategy, Kataryna seeks to implead both Hal and Billie. Her argument is that each of them owes
+her a duty to indemnify (cover) her if she is liable to the bank What is the most likely result?
+
+A. Kataryna will likely be able to implead Billie, since the contract creates a legal obligation, but
+will be unable to implead Hal unless she can prove his oral promise also creates a legal
+obligation.
+
+B. Kataryna will likely be able to implead both since they are connected to the events.
+C. Kataryna will likely be able to implead Hal, since he made her a promise, but probably not
+Billie, since all she has is a contract.
+
+D. Kataryna can only implead one person, so she could implead either Hal or Billie, but not both.
+E. Kataryna cannot implead either Hal or Billie since she is also denying liability.
+   58. Same facts for questions 57, 58, and 59, and 60, repeated in each question.
+
+Facts: Kataryna is a British entrepreneur who recently relocated to Bethesda, Maryland, just
+outside Washington, D.C. She decides to launch an exclusive private club aimed at international
+diplomats, policy advisors, and visiting dignitaries. To finance the venture, she secures several
+investors and borrows more than $500,000 from a bank.
+
+One investor is her boyfriend, Hal, who verbally promised he would help support the project.
+Another investor is Billie, with whom Kataryna signs a written contract stating that Billie will
+indemnify Kataryna for any debts incurred in connection with the venture.
+
+When Kataryna cannot repay the bank loan, the bank sues her in federal court, relying on a
+federal statute authorizing this type of recovery.
+Kataryna is a citizen of the United Kingdom. Hal and Billie are citizens of New York.
+
+During her months in Bethesda, Kataryna stays at the 212Hotel Bethesda, an independent luxury
+boutique hotel, based in Maryland. The hotel later sues Kataryna in federal court for $90,000,
+bringing a state-law tort claim relating to unpaid charges.
+
+Question: This question concerns only the lawsuit filed by the 212Hotel Bethesda. Kataryna
+wants to bring a counterclaim against the hotel based on a state-law tort theory, alleging she was
+injured at the hotel and seeking $100,000. Can Kataryna bring this counterclaim?
+
+   A. Yes: the counterclaim is allowed, and the court would have diversity jurisdiction
+      over it.
+   B. Yes: the counterclaim is allowed, and the court would have federal question
+      jurisdiction over it.
+   C. No: a non-U.S. citizen cannot bring a counterclaim.
+   D. No: the counterclaim is not allowed because it is unrelated.
+   E. C and D are both correct.
+   59. Same facts for questions 57, 58, and 59, and 60, repeated in each question.
+
+Facts: Kataryna is a British entrepreneur who recently relocated to Bethesda, Maryland, just
+outside Washington, D.C. She decides to launch an exclusive private club aimed at international
+diplomats, policy advisors, and visiting dignitaries. To finance the venture, she secures several
+investors and borrows more than $500,000 from a bank.
+
+One investor is her boyfriend, Hal, who verbally promised he would help support the project.
+Another investor is Billie, with whom Kataryna signs a written contract stating that Billie will
+indemnify Kataryna for any debts incurred in connection with the venture.
+
+When Kataryna cannot repay the bank loan, the bank sues her in federal court, relying on a
+federal statute authorizing this type of recovery.
+Kataryna is a citizen of the United Kingdom. Hal and Billie are citizens of New York.
+
+During her months in Bethesda, Kataryna stays at the 212Hotel Bethesda, an independent luxury
+boutique hotel, based in Maryland. The hotel later sues Kataryna in federal court for $90,000,
+bringing a state-law tort claim relating to unpaid charges.
+
+Question: Assume both lawsuits proceed: the bank and the hotel each sue Kataryna. They are
+separate suits. Kataryna does not implead Hal or Billie in the bank case.
+She also does not bring any counterclaim in the hotel case.
+
+Later, Kataryna files a separate lawsuit against the hotel for $100,000 based on that alleged
+injury. The hotel argues she is barred from bringing the injury claim now.
+
+Which is the most likely result?
+
+A. She is barred from bringing the injury claim only if the original court lacked subject matter
+jurisdiction.
+
+B. She is barred from bringing the injury claim because it was a compulsory counterclaim, and
+she failed to raise it earlier.
+C. She is not barred from bringing the injury claim because counterclaims are always optional.
+D. She is not barred from bringing the injury claim because she is a non-U.S. citizen.
+
+E. She is not barred from bringing the injury claim because the injury and unpaid-charge claims
+are unrelated as a matter of law.
+   60. Same facts for questions 57, 58, and 59, and 60, repeated in each question.
+
+Facts: Kataryna is a British entrepreneur who recently relocated to Bethesda, Maryland, just
+outside Washington, D.C. She decides to launch an exclusive private club aimed at international
+diplomats, policy advisors, and visiting dignitaries. To finance the venture, she secures several
+investors and borrows more than $500,000 from a bank.
+
+One investor is her boyfriend, Hal, who verbally promised he would help support the project.
+Another investor is Billie, with whom Kataryna signs a written contract stating that Billie will
+indemnify Kataryna for any debts incurred in connection with the venture.
+
+When Kataryna cannot repay the bank loan, the bank sues her in federal court, relying on a
+federal statute authorizing this type of recovery.
+Kataryna is a citizen of the United Kingdom. Hal and Billie are citizens of New York.
+
+During her months in Bethesda, Kataryna stays at the 212Hotel Bethesda, an independent luxury
+boutique hotel, based in Maryland. The hotel later sues Kataryna in federal court for $90,000,
+bringing a state-law tort claim relating to unpaid charges.
+
+Question: Assume both lawsuits proceed: the bank and the hotel each sue Kataryna. They are
+separate suits. Kataryna does not implead Hal or Billie in the bank case.
+She also does not bring any counterclaim in the hotel case. Later, Kataryna files a separate
+lawsuit against Billie asserting that same indemnity claim. Billie argues she is barred from
+bringing the indemnity claim because she could have been impleaded earlier.
+
+Which is the likely result?
+
+A. Kataryna is barred from bringing the indemnity claim because failing to implead a third party
+always forfeits the claim.
+B. Kataryna is barred from bringing the indemnity claim only if the indemnity claim involved the
+same transaction or occurrence as the bank’s claim.
+C. Kataryna is not barred from bringing the indemnity claim because impleader is never
+compulsory; she may bring the indemnity claim later.
+D. Kataryna is barred from bringing the indemnity claim because impleader claims are
+compulsory when the defendant denies liability.
+E. Kataryna is barred from bringing the indemnity claim because she cannot add new parties in
+later suits.
+

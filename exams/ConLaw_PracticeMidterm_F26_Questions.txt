@@ -1,0 +1,596 @@
+                                 Constitutional Law I
+          Practice Midterm/Formative Assessment/Sample Final Exam Questions
+
+                                            Fall 2026
+
+Multiple Choice Instructions: Choose the best answer.
+
+1.   The Supreme Court decided Calder v. Bull (1798) before the use of majority opinions.
+     Each justice instead wrote a separate opinion, even if they agreed on the outcome. We
+     focused on the dicta in two opinions about the role of the courts in interpreting the
+     Constitution. One was the opinion of Justice Samuel Chase. The other was the opinion of
+     Justice James Iredell. Which of the following most closely aligns with Justice Iredell’s
+     position on judicial review?
+
+     A. The Supreme Court lacks the power to declare legislative acts void.
+
+     B. The Supreme Court has the power to declare acts of Congress unconstitutional, but it
+        lacks the power to declare state legislative acts unconstitutional because federal courts
+        have no power to review state legislation under the Tenth Amendment.
+
+     C. The Supreme Court has the power to declare legislative acts void but should only do so
+        when legislation clearly violates a particular provision of the Constitution.
+
+     D. The Supreme Court has the power to declare legislative acts void but should only do so
+        when legislation violates a particular provision of the Constitution or when the
+        legislation violates principles of natural justice.
+
+
+
+
+                                                1
+2.   The lead dissent in TransUnion LLC v. Ramirez (2021), the one by Justice Clarence
+     Thomas, said the majority’s “decision might actually be a pyrrhic victory for TransUnion.”
+     Why?
+
+     A. Congress might overrule the decision by amending the relevant statutes.
+
+     B. The Supreme Court held only that it lacked jurisdiction to hear the appeal in the case,
+        leaving the courts of appeals and trial courts free to resolve these types of claims as
+        they see fit.
+
+     C. The Supreme Court held that the plaintiffs’ claims were political questions because
+        there were no judicially manageable standards for calculating their damages.
+
+     D. The Supreme Court did not prohibit Congress from creating statutory rights for
+        consumers. It instead held that federal courts lack jurisdiction to hear some of these
+        cases. That may leave state courts, which are not bound by the limitations of federal
+        rules of justiciability, as the sole forum for such cases. By declaring that federal courts
+        lack jurisdiction, the Court ensured that state courts will exercise exclusive jurisdiction
+        over these sorts of class actions.
+
+
+
+3.   Federal patent and copyright laws are authorized by an enumerated power specifically
+     about patent and copyright law, what the Supreme Court called the Intellectual Property
+     Clause in Allen v. Cooper (2020). Federal trademark law, by contrast, is not authorized by
+     a specific power directed at trademarks. Instead, federal trademark law is based on the
+     Commerce Clause in Article I, section 8. Assume that in 2026 Congress authorizes suits for
+     money damages against states for trademark infringement. The statute explicitly states it is
+     based on Congress’ powers under the Commerce Clause. The statute explicitly waives state
+     sovereign immunity. Is this waiver of sovereign immunity constitutional?
+
+     A. Yes. Unlike the statute in Allen, this statute is based on the Commerce Clause, not the
+        Intellectual Property Clause. While Congress cannot abrogate state sovereign immunity
+        under the Intellectual Property Clause in Article I, section 8, Congress can abrogate
+        sovereign immunity under the Commerce Clause.
+
+     B. Yes. This waiver of sovereign immunity is based on the plan of the Convention.
+
+     C. No. Congress cannot abrogate state sovereign immunity under the Commerce Clause.
+
+     D. No. While states can voluntarily waive sovereign immunity, Congress can never
+        abrogate state sovereign immunity.
+
+
+
+
+                                                 2
+4.   Assume the plaintiffs in a lawsuit rented an apartment for one year from the defendant and
+     alleged that the defendant fraudulently induced them into the rental contract by
+     misrepresenting and concealing defects in the apartment. The plaintiffs and defendant are
+     all citizens and residents of California. The plaintiffs previously resided in Anaheim,
+     California. The defendant’s apartment is located in Fullerton, California. The complaint
+     alleges that the representations on a disclosure form were fraudulent, that the defendant
+     was aware of the condition of the defects, and that the defendant consciously sought to
+     conceal the defects from the plaintiffs.
+
+     The rental contract contains a binding arbitration clause. Under the Federal Arbitration Act,
+     written arbitration clauses involving interstate commerce are enforceable. The Supreme
+     Court has held that the Federal Arbitration Act’s coverage reaches to the full extent of
+     Congress’ commerce power.
+
+     Which of the following is the most plausible conclusion about the enforceability of the
+     arbitration clause?
+
+     A. The arbitration clause is likely unenforceable because both parties are citizens and
+        residents of the same state and there is no interstate element to the contract.
+
+     B. The arbitration clause is likely unenforceable because the rental of a single apartment
+        could not have a substantial effect on interstate commerce.
+
+     C. The arbitration clause is likely enforceable because Congress’ power over commerce is
+        plenary, including all interstate and intrastate commerce.
+
+     D. The arbitration clause is likely enforceable because the local rental of an apartment is
+        an element of a much broader commercial market in rental properties, and Congress’
+        power to regulate the class of activities that constitute the rental market for real estate
+        includes the power to regulate individual activity within that class.
+
+
+
+
+                                                 3
+5.   Assume you are an associate at the Chicago office of the law firm of Harket, Furuholmen
+     & Waaktaar-Savoy. You have been asked by a partner to research a question of federal
+     constitutional law for a case pending before the United States District Court for the
+     Northern District of Illinois. You have found a favorable case directly on point. You hope
+     the case is binding, but you haven’t yet looked to see what court decided the case. You are
+     about to look. Which of the following courts’ decisions would be binding?
+
+     A. United States District Court for the Northern District of Illinois
+
+     B. United States Court of Appeals for the Seventh Circuit
+
+     C. Supreme Court of Illinois
+
+     D. Prior decisions from all of the above courts would be binding.
+
+
+
+6.   In The Federalist No. 51, Madison referred to the “double security” in the Constitution. He
+     was referring to what?
+
+     A. federalism and the separation of powers
+
+     B. the Bill of Rights and judicial review
+
+     C. judicial review and the presidential veto
+
+     D. the Congress divided into two houses, the House of Representatives and the Senate
+
+
+
+
+                                                 4
+7.   In The Federalist No. 78, Alexander Hamilton’s position on the topic of judicial review is
+     closest to which of the following?
+
+     A. Where there is an irreconcilable variance between the Constitution and a statute, courts
+        must follow the statute. Legislatures are entitled to have the final say on the
+        interpretation of the Constitution. Courts must always presume statutes are consistent
+        with the Constitution.
+
+     B. Where there is an irreconcilable variance between Article III of the Constitution and a
+        statute, courts should follow Article III rather than the statute; however, the courts
+        cannot refuse to enforce a statute because it supposedly violates a provision in the other
+        articles of the Constitution. Congress has the final say on the meaning of Article I of the
+        Constitution. The President has the final say on the meaning of Article II. Courts have
+        the final say only on the meaning of Article III.
+
+     C. Where there is an irreconcilable variance between the Constitution and a statute, courts
+        should follow the Constitution rather than the statute.
+
+     D. Judicial review is at odds with the United States Constitution because judicial review is
+        part of the British tradition. The Declaration of Independence ended all influence of
+        British law.
+
+
+
+
+                                                5
+8.   How did President Bill Clinton respond to the Supreme Court’s decision in Lopez v. United
+     States (1995)?
+
+     A. President Clinton proposed amending the Gun Free School Zones Act to bring it within
+        Congress’ Commerce Clause authority.
+
+     B. President Clinton agreed with the decision and did not endorse taking any action in
+        response to it.
+
+     C. President Clinton proposed a constitutional amendment to overturn the decision.
+
+     D. President Clinton did not publicly respond to the decision, but he hinted that he was
+        skeptical of it.
+
+
+
+9.   You are an associate at the Los Angeles office of the law firm of Le Bon, Rhodes &
+     Taylors. You have been asked by a partner to research a question involving the First
+     Amendment for a case pending before a state trial court in California, specifically, the Los
+     Angeles County Superior Court. You have found a favorable case directly on point. As
+     always, you hope the case is binding, but you haven’t yet looked to see what court decided
+     the case. Decisions of what court would be binding in the Los Angeles County Superior
+     Court on a First Amendment question?
+
+     A. United States District Court for the Central District of California, which has jurisdiction
+        over the following counties: Riverside, San Bernardino, Orange, Los Angeles, San Luis
+        Obispo, Santa Barbara, and Ventura.
+
+     B. United States Court of Appeals for the Ninth Circuit
+
+     C. Supreme Court of the United States
+
+     D. Prior decisions from all of the above courts would be binding.
+
+
+
+
+                                                6
+10.   Assume the State of Illinois receives federal money in the Money for People program. A
+      plaintiff sues the director of the program in federal court claiming it is being administered
+      in a manner that violates federal law. He is citizen of Indiana but currently resides in
+      Illinois. He receives benefits under the program and seeks damages. The relevant statute
+      says nothing about abrogating sovereign immunity. Which of the following is correct?
+
+      A. Illinois can claim sovereign immunity against the plaintiff’s claim for damages.
+
+      B. Illinois cannot claim sovereign immunity because the plaintiff is the citizen of another
+         state.
+
+      C. Illinois cannot claim sovereign immunity because the plaintiff is a resident of the same
+         state.
+
+      D. Illinois cannot claim sovereign immunity because the plaintiff’s claim is based on a
+         federal statute rather than a state statute.
+
+
+
+
+                                                 7
+11.   Section 702 of the Foreign Intelligence Surveillance Act of 1978, 50 U.S.C. §1881a, allows
+      the Attorney General and the Director of National Intelligence to acquire foreign
+      intelligence information by jointly authorizing the surveillance of individuals who are not
+      “United States persons” and who are reasonably believed to be located outside the United
+      States. Before doing so, the Attorney General and the Director of National Intelligence
+      normally must obtain the Foreign Intelligence Surveillance Court’s approval.
+
+      Assume the plaintiffs are attorneys whose work requires them to engage in sensitive
+      international communications with individuals who they believe are likely targets of
+      surveillance under §1881a. They claim that the risk of surveillance is requiring them to take
+      costly and burdensome measures to protect the confidentiality of their communications.
+
+      The plaintiffs seek a declaration that §1881a violates the Fourth Amendment’s prohibition
+      on unreasonable searches, as well as an injunction against surveillance under §1881a. The
+      plaintiffs do not challenge other statutory provisions that could allow for surveillance of
+      their communications.
+
+      Do the plaintiffs have Article III standing to seek this prospective relief?
+
+      A. No. Because the government must seek the approval of the Foreign Intelligence
+         Surveillance Court to engage in surveillance, there is no violation of the Fourth
+         Amendment.
+
+      B. No. The plaintiffs cannot show that their communications have been or will be
+         intercepted; therefore, the plaintiffs cannot show an injury in fact. Even if the plaintiffs
+         could show an actual or imminent injury from government surveillance, they cannot
+         show it is traceable to section 1881a because the surveillance might be based on
+         another statutory provision.
+
+      C. Yes. Because the plaintiffs are attorneys and there is a need to protect confidential
+         attorney-client communications, the plaintiffs have standing.
+
+      D. Yes. Because the plaintiffs claim that the risk of surveillance is requiring them to take
+         measures to protect the confidentiality of their communications, the plaintiffs can show
+         an actual injury, which suffices to confer standing.
+
+
+
+
+                                                  8
+12.   In what court did the case of Marbury v. Madison (1803) originate?
+
+      A. Circuit Court of Maryland
+
+      B. Supreme Court of Virginia
+
+      C. United States Circuit Court of the District of Columbia
+
+      D. Supreme Court of the United States
+
+
+
+13.   In Marbury v. Madison (1803), could Chief Justice Marshall have offered a plausible
+      interpretation of the reference to writs of mandamus in section 13 of the Judiciary Act of
+      1789 that would have avoided a conflict with the Constitution?
+
+      A. Yes, the reference to mandamus in section 13 is plausibly understood not as conferring
+         jurisdiction on the Supreme Court, but as authorizing the Court to issue writs of
+         mandamus in cases properly before it whenever issuing the writ is warranted by the
+         principles and usages of law.
+
+      B. Yes, the reference to mandamus in section 13 is plausibly understood as authorizing the
+         district courts and circuits courts to issue writs of mandamus, not the Supreme Court.
+
+      C. Yes, the reference to mandamus in section 13 is plausibly understood as denying the
+         Supreme Court the power to issue writs of mandamus, not as granting the Supreme
+         Court the power to issue them.
+
+      D. No, the text of section 13 is very clear: it assigned cases involving ambassadors,
+         consuls, vice consuls, and cases where a plaintiff seeks a writ of prohibition or
+         mandamus to the exclusive, original jurisdiction of the Supreme Court.
+
+
+
+
+                                                 9
+14.   Assume that on March 1, 2024, Smith and several other individuals were distributing
+      handbills (i.e., flyers or leaflets) protesting American foreign policy. They were doing so
+      on an exterior sidewalk of the Woodfield Mall in Illinois. Shopping center employees
+      asked them to leave. They declined to do so, and police officers were summoned. The
+      officers told them they would be arrested if they did not stop handbilling. The group then
+      left to avoid arrest.
+
+      Two days later Smith and a companion returned to the shopping center and again began
+      handbilling. The manager of the center called the police, and Smith and his companion
+      were once again told that failure to stop their handbilling would result in their arrests.
+      Smith left to avoid arrest, but his companion stayed and continued handbilling. This
+      companion was arrested and subsequently arraigned on a charge of criminal trespass in
+      violation of state law.
+
+      Smith filed a complaint against the local chief of police and the owner of the Woodfield
+      Mall. He alleged in his complaint that, although he desired to return to the shopping center
+      to distribute handbills, he had not done so because of his concern that he would also be
+      arrested. The parties stipulated that, if Smith returned and refused to stop handbilling, he
+      might be arrested and charged with a violation of the state criminal trespass statute.
+
+      Smith claims the enforcement of the statute against him violates his First and Fourteenth
+      Amendment rights of freedom of speech. He seeks an injunction prohibiting the
+      enforcement of the statute so as to interfere with what he claims are constitutionally
+      protected activities.
+
+      Can Smith show an injury in fact sufficient to show Article III standing?
+
+      A. Yes. Because there is a credible threat of prosecution, Smith can show a sufficiently
+         imminent injury that is concrete and particularized. Therefore, Smith can show an
+         injury in fact sufficient for standing.
+
+      B. No. Because it is not certain that Smith will be arrested, the plaintiff cannot show an
+         actual or imminent injury. The parties only stipulated that he “might” be arrested. No
+         actual or imminent harm, no standing.
+
+      C. No. Because Smith cannot show a close historical or common-law analogue for his
+         asserted injury, he cannot show a concrete injury. No concrete harm, no standing.
+
+      D. No. Because the police might arrest anyone who distributes handbills at the shopping
+         mall, Smith cannot show a particularized injury. No particularized harm, no standing.
+
+
+
+
+                                                10
+15.   What is the significance of the 1793 exchange of letters between the Washington
+      Administration and the Supreme Court justices about the construction of treaties and
+      international law?
+
+      A. It set a precedent for federal courts not to provide advisory opinions.
+
+      B. It set a precedent for the federal courts not to resolve political questions.
+
+      C. It established the doctrine of standing because the justices explained that President
+         Washington lacked standing to pose the question to the Supreme Court.
+
+      D. It set a precedent for dismissing cases that are moot.
+
+
+
+16.   During the ratification debates, Brutus criticized the Constitution on which of the following
+      grounds?
+
+      A. The language of the Constitution is written in general and indefinite terms and will be
+         interpreted by judges in favor of federal power.
+
+      B. The Constitution will lead to the abolition of state governments.
+
+      C. The legislature will not be able to control the Supreme Court.
+
+      D. All of the above.
+
+
+
+17.   Assume former vice president Mike Pence wins the 2028 presidential election. Shortly after
+      taking office, President Pence persuades Congress to pass a statute making mass shootings
+      a federal crime, just as he proposed during a previous presidential primary debate. In the
+      statute, a mass shooting is defined as any single incident in which a perpetrator kills 3 or
+      more victims with a firearm. Which of the following would be the most effective means for
+      Congress to insure that courts uphold the law as constitutional?
+
+      A. Congress passes the law with a two-thirds majority.
+
+      B. Congress holds hearings in which evidence is presented about the economic costs of
+         mass shootings.
+
+      C. Congress makes express findings about the substantial effects of mass shootings on
+         interstate commerce.
+
+      D. Congress includes a provision in the statute requiring that the firearm used to commit
+         the crime has moved in interstate commerce.
+
+
+
+                                                  11
+18.   The Supreme Court’s decision in United States v. Lopez (1995) made which of the
+      following points about Congress’ power under the Commerce Clause?
+
+      A. When regulating activities that affect interstate commerce, Congress must make
+         particularized findings about the effects of the activities on interstate commerce in
+         order to legislate.
+
+      B. When regulating activities that substantially affect interstate commerce, Congress must
+         make particularized findings about the substantial effects of the activities on interstate
+         commerce in order to legislate.
+
+      C. Congress can regulate activities that affect interstate commerce, provided these effects
+         are substantial.
+
+      D. Congress’ power to regulate interstate commerce is a non-justiciable political question.
+
+
+
+
+                                                12
+19.   Assume Senator John Gillnitz recently watched the episode of 21 Jump Street entitled “The
+      Next Generation,” which originally aired on June 7, 1987. In this episode, a high school
+      student follows in the footsteps of his father and becomes a loan shark. He loans money to
+      students and teachers at unlawful interest rates and then resorts to violence when they fail
+      to pay on time. This episode gives Gillnitz an idea for what Jeffrey Rosen called Congress’
+      “biannual Elizabethan ritual of making new federal crimes out of activities that are already
+      criminal under state law.” Gillnitz sponsors a bill to make loan sharking in schools a
+      federal crime. Congress does not hold any hearings or gather any evidence on the
+      prevalence of loan sharking by students or how common it is in schools. Nevertheless, the
+      law passes both houses of Congress and is signed by President Trump.
+
+      After the law goes into effect, a high school student in Texas is prosecuted in federal court
+      for violating the law. The student challenges the constitutionality of the law based on the
+      Supreme Court’s holding in Lopez v. United States (1995). Will the student’s constitutional
+      challenge succeed?
+
+      A. His challenge is not likely to succeed. Congress can regulate criminal activity in or near
+         schools because these crimes significantly undermine the quality of education in our
+         nation’s classrooms, and education has an effect on interstate and foreign commerce.
+
+      B. His challenge is not likely to succeed. The Court previously upheld a federal criminal
+         law on loan sharking even when applied to purely intrastate transactions. The Court did
+         not question this holding in Lopez.
+
+      C. His challenge is likely to succeed. While the Court probably would have upheld the law
+         prior to the decision in Lopez, Lopez requires Congress to make particularized findings
+         and Congress failed to do so when it passed this bill.
+
+      D. His challenge is likely to succeed. The regulation of activities within schools is within
+         the states’ reserved powers under the Tenth Amendment. Congress should have instead
+         conditioned federal funding for schools on state’s criminalizing loan sharking instead of
+         regulating this activity directly.
+
+
+
+20.   Which of the following cases did the Supreme Court expressly overrule in United States v.
+      Lopez?
+
+      A. Wickard v. Filburn
+
+      B. Perez v. United States
+
+      C. Russell v. United States
+
+      D. None of the above.
+
+
+                                                13
+21.   Assume that in 2025, Congress appropriates $2 billion for the construction of a National
+      Museum of the 1980s, which will be managed by the National Parks Service.
+
+      Congress authorizes the museum to include “substantial exhibits or materials related to the
+      late 1970s or the early 1990s to the extent these exhibits or materials put events from the
+      1980s in a useful context.” The museum is to be constructed in Simi Valley, California near
+      the Reagan Library. President Trump signs the bill creating the museum.
+
+      In the event litigation results over Congress’ power to spend money on this project, which
+      of the following arguments would a court most likely rely upon for resolving the dispute?
+
+      A. The grant of power to spend is a grant of power to spend for the general national
+         welfare, and a museum in California would not benefit the nation as a whole but instead
+         benefit one state.
+
+      B. The grant of power to spend for the general national welfare must be confined to the
+         enumerated powers committed to the Congress, and there is no enumerated power in
+         Article I, section 8 to build museums.
+
+      C. The grant of power to spend confers a power separate and distinct from those later
+         enumerated in Article I, section 8, and the power is not restricted to spending in
+         furtherance of those enumerated powers.
+
+      D. The grant of power to spend confers a power separate and distinct from those later
+         enumerated in Article I, section 8, and the power is not restricted to spending in
+         furtherance of those enumerated powers; however, Article I, section 8 restricts any
+         expenditure by Congress on museums to the capital city (so Washington, D.C.).
+
+
+
+
+                                               14
+22.   According to the Department of Education’s Title IX regulations, “A recipient [of federal
+      financial assistance] which operates or sponsors interscholastic, intercollegiate, club or
+      intramural athletics shall provide equal athletic opportunity for members of both sexes.” 34
+      C.F.R. § 106.41(c). Assume a plaintiff sued a university in federal district court in the last
+      semester of her senior year, claiming its wrestling program violates this regulation. She
+      sought an injunction to remedy the ongoing violation. She did not seek money damages.
+      After she graduated, the university moved to dismiss the claim because she was no longer a
+      student and had no intention of re-enrolling in the university. Which of the following is the
+      most likely outcome?
+
+      A. The district court will dismiss the claim because it was no longer ripe after the plaintiff
+         graduated.
+
+      B. The district court will dismiss the claim because it became moot once the plaintiff
+         graduated.
+
+      C. The district court will dismiss the claim because the regulation of university athletic
+         programs is a political question.
+
+      D. The district court will not dismiss the claim because the plaintiff had standing at the
+         time she filed the lawsuit.
+
+
+
+
+                                                 15
+23.   Which of the following best describes the relationship between Chisholm v. Georgia (1793)
+      and the Eleventh Amendment?
+
+      A. The Supreme Court decided in Chisholm that Georgia lacked sovereign immunity when
+         sued by a citizen of South Carolina, which led to the ratification of the Eleventh
+         Amendment to overturn the Court’s decision.
+
+      B. The Supreme Court decided in Chisholm that Georgia had sovereign immunity when
+         sued by a citizen of South Carolina, but acknowledged no textual provision addressed
+         this question. Congress later submitted the Eleventh Amendment to the states to
+         provide textual support for the holding of Chisholm.
+
+      C. Chisholm was the Supreme Court’s first interpretation of the Eleventh Amendment.
+         The Court held that sovereign immunity extends to cases involving a citizen of a state
+         suing that same state. In Chisholm a citizen of Georgia sued the State of Georgia and
+         the Court held that Georgia had sovereign immunity from suit.
+
+      D. Chisholm was the Supreme Court’s first interpretation of the Eleventh Amendment.
+         The Court held that sovereign immunity extends to cases involving a citizen of a state
+         suing another state. In Chisholm a citizen of South Carolina sued Georgia and the Court
+         held that Georgia had sovereign immunity from suit.
+
+
+
+
+                                               16
+Short Answer Instructions: You could write an article or even a book to answer these
+questions. Instead, provide a short concise answer, keeping in mind these questions have
+previously been worth four or five multiple choice questions. Stick to about one-half a page. A
+better answer might refer to one or more cases. Should you do so, you do not need the full name
+of the case or the reporter citation. You can just use the name of one party, e.g., Marbury v.
+Madison (1803) can be called just “Marbury.”
+
+
+
+24. In The Federalist No. 45, James Madison wrote, “The powers delegated by the proposed
+Constitution to the federal government are few and defined. Those which are to remain in the
+State governments are numerous and indefinite. The former will be exercised principally on
+external objects, as war, peace, negotiation, and foreign commerce; with which last the power of
+taxation will, for the most part, be connected.” The courts still quotes this line, but is it still
+accurate? How might Chief (or Associate) Justice William Rehnquist answer this question?
+
+
+
+25. Explain the main point of disagreement between Justice Samuel Chase and Justice James
+Iredell in Calder v. Bull (1798) on the topic of judicial review and constitutional interpretation.
+
+
+
+26. In the June 26, 1995 essay discussed in class (and posted on the course website with the
+strong suggestion you read it), Professor Lino Graglia reacted to United States v. Lopez (1995)
+with the following: “In Lopez, by contrast, conservatives won almost nothing of significance: it
+is no longer a federal (but usually still a state) crime to possess a firearm near a school, but such
+possession can easily and probably soon will be made a federal crime again. More important, it is
+most unlikely that the decision will have any significant precedential value.” What did he mean?
+Was he right?
+
+
+
+Bonus Short Answer Question for Later in the Semester:
+
+27. The “major questions” doctrine is a canon of statutory interpretation. Explain in one
+paragraph what this doctrine is and what it has to do with the non-delegation doctrine.
+
+
+
+
+                                                 17
+

@@ -68,3 +68,9 @@ Build BOTH variants side by side, so the user practices the difference:
 
 ## CONTRACTS RULE UPDATE (11/20)
 Stick to the syllabus Restatement sections and cases plus TWEN problem types (see contracts_final_materials/README.md "Syllabus + TWEN list" and TWEN_problem_types_list.md). Keep the longer, final-exam-length fact patterns.
+
+## FORMAT RULES UPDATE (11/20, second message)
+- CONTRACTS: include liquidated-damages fill-ins (Barrie School v. Patch; R356 reasonable forecast vs. penalty; LD caps recovery both ways). Stick to TWEN types + syllabus Restatements.
+- CIV PRO: mirror the Fall 2025 final (exams/CivPro_Fall2025_Final.pdf + AnswerKey): 5 options, same-facts groups repeated in each question, "X and Y are both correct" / "All of the above" combos, "four correct, one INCORRECT" questions, TV-show names. Still only outline rules, exactly one Erie question (no test application).
+- CON LAW: mirror the practice midterm's depth (exams/ConLaw_PracticeMidterm_F26_*.pdf): 4 options (A–D), long nuanced choices, binding-precedent questions, applied hypotheticals, across the whole outline universe.
+- App size is ~15.17MB of 16MB. Before the next big round, move older sets out of the page file (into the db) so new sets fit.
