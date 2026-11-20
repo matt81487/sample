@@ -61,3 +61,7 @@ Build BOTH variants side by side, so the user practices the difference:
   (b) new wealth = value of the finished job − replacement cost − owner's other losses,
   MINUS payments already received. The breacher's reasonable value of work is a DISTRACTOR, not the measure.
 - Future sets: include 2–3 breaching-party restitution fill-ins per Contracts set (builders, employees, sellers), vary which measure is lesser, include the reasonable-value distractor, and sometimes make the answer $0 (payments exceed the lesser measure).
+
+## CON LAW WEEK 13 (11/19) ADDED
+- Notes: class_notes/Con_Law_11-19-26_Week_13_Class_Notes.docx (+ .txt); summary: study_notes/Con_Law_Week13_11-19-26_summary.md
+- New quiz material: war powers (WPR §1541(c), §1544(c) + Chadha, purse power, Bush vs. Biden, Obama Q&A), preemption types, anti-commandeering (New York, Printz, Testa v. Katt, Reno v. Condon, S.C. v. Baker, Murphy's 3 reasons), Art. I §10, Barron v. Baltimore. Use in the next Con Law set.
