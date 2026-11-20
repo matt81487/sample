@@ -65,3 +65,6 @@ Build BOTH variants side by side, so the user practices the difference:
 ## CON LAW WEEK 13 (11/19) ADDED
 - Notes: class_notes/Con_Law_11-19-26_Week_13_Class_Notes.docx (+ .txt); summary: study_notes/Con_Law_Week13_11-19-26_summary.md
 - New quiz material: war powers (WPR §1541(c), §1544(c) + Chadha, purse power, Bush vs. Biden, Obama Q&A), preemption types, anti-commandeering (New York, Printz, Testa v. Katt, Reno v. Condon, S.C. v. Baker, Murphy's 3 reasons), Art. I §10, Barron v. Baltimore. Use in the next Con Law set.
+
+## CONTRACTS RULE UPDATE (11/20)
+Stick to the syllabus Restatement sections and cases plus TWEN problem types (see contracts_final_materials/README.md "Syllabus + TWEN list" and TWEN_problem_types_list.md). Keep the longer, final-exam-length fact patterns.

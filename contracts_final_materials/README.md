@@ -23,3 +23,8 @@ Uploaded by the user for building finals practice quizzes on request. `_text/` h
 | Contracts_II_-_Spring_2023_Exam.pdf | Jones's Spring 2023 Exam III (15 MC, 37 minutes): format model. |
 
 **Rule for quizzes from these (user, 11/19):** mirror the final exam's length, difficulty and format. Long, multi-sentence fact patterns with distractor facts; damages = fill-in (numeric); everything else = 4-option MC.
+
+## Syllabus + TWEN list (added 11/20)
+- Contracts_II_Syllabus_Fall_2026.docx (+ _text/Contracts_II_Syllabus_Fall_2026.txt): week-by-week cases and Recommended Restatements. Build questions ONLY from these sections and cases:
+  Interpretation 201, 202, 204, 205, 206, UCC 2-202 (Joyner, Frigaliment); Modification 71, 73, 89 (Alaska Packers); PER 209, 210, 213–216 (Thompson v. Libby, Taylor, Sherrodd, Nanakuli); Conditions 224–230, 239, 245, 261, 269, 84, 377 (enXco, J.N.A. Realty); Mistake/excuse 152, 154, 261–266, 269 (Karl Wendt, Lenawee); Material breach 235–237, 241–243 (Jacob & Youngs, Sackett v. Spindler); Repudiation 250–257, UCC 2-609 (Truman Flatt, Hornell); Expectation 346–348, 350–353, 355 (Crabby's, Lukaszewski, American Standard v. Schectman, Hadley, Luten Bridge, Florafax, Jetz, Maness, UCC 2-708, Erlich, Zapata, Roth v. Speck, Merry Gentleman, Harris, Dusold); Reliance 344, 90 (Wartzman, Walser); Restitution 370, 371, 373, 375–377, 384 (Algernon Blair, Lancellotti, City Stores, Ventura, Osteen, Chicago Coliseum, Barrie School); 3PB/Assignment 317, 318, 321–324, 328, 331–333 (Vogan, Herzog).
+- TWEN_problem_types_list.md: the model problem types.
