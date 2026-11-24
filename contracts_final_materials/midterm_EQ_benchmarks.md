@@ -32,8 +32,14 @@
 - **Cherry Wood:** the buyer's stock-crash insolvency. **D. Tina does not prevail.** Financial inability is not impracticability or frustration. C gives the right outcome for the wrong reason.
 - **Benson Farm:** the contract doesn't require Ben's farm, and a tornado destroys it. **D. Sara prevails** (per the Tom Wood analysis). Her $30K walk-away offer is irrelevant.
 - **Gas Station:** a regulation makes the station unprofitable, and the tenant stops paying rent. **C. Betsy prevails because the purpose is not substantially frustrated.** Mere loss is not enough.
+- **Midterm I MC (with class % correct). Format:** 70-110 words with dates, dollar amounts and a quoted statement. Four long, parallel choices of the form "X because [rule]"; two share the same outcome and differ only in the reason.
+  - **Q5 (62%), PER, completely integrated writing:** a May 30 oral agreement about payment terms, made after the May 25 writing. **B: admissible.** The PER does not bar later agreements or modifications. A and C are the "completely integrated" trap.
+  - **Q6 (52%), PER interpretation:** evidence from prior negotiations about what "total cost" means (hotel expenses). **B: admissible to establish the meaning of a term in an integrated agreement.** C (the partial-integration prerequisite) and D ("adds an obligation") are traps.
+  - **Q9 (analysis only), R250 ill. 7:** Susan's voluntary act makes timely performance impossible or apparently impossible, so it is a repudiation (**B**). An express verbal refusal is not required. DePaul may act before the performance date. Adequate assurance under R251 is not a prerequisite once there is an actual repudiation.
+  - **Q11 (58%), R250 ill. 9:** David writes "I will not deliver unless you accept Sept 1," which demands a one-day postponement. **B: immediate repudiation, so Betty may pursue total-breach remedies.** Refusing to perform unless she surrenders a contract right is a repudiation, even for a small concession.
+  - **Q12 (64%), R250 ill. 3:** Sarah says "not sure I can proceed... do not intend to unless legally obligated." **C: no repudiation, because the statement is not definite and unequivocal.** Doubt is not enough (cmt. b). D is wrong because repudiation can occur before the due date.
 
 ## Week 13 notes (11/23 docx, re-uploaded 11/24)
 - **Final format:** 50 questions in 2.5 hours (about 3 minutes each), all MC. Focus: total breach and how it affects restitution, reliance and expectation damages.
 - **Answers jotted (questions not identified):** 162,500 ("right answer"); Exp 500k / Rel 500k / Res 600k; Q5 200k, Q6 176k, Q7 500; 2,700; 90,000; 18,000; 15,000; 25,000; 13: 10k, 14: 40k, 15: 10k.
-- These probably belong to the Midterm III review questions, not the E.Q. set above (E.Q. #13-15 compute to 60k / 0 / 0).
+- These belong to a different question set (they do not match E.Q. #13-15 or Midterm I Q5/Q6, which are PER).
