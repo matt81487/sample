@@ -43,3 +43,9 @@ NOTE: `Contracts_Week_13_MidtermIII_Final_Review_112326.docx` (uploaded 11/24) c
 | Liquidated damages | Barrie School, R356 (reasonable in light of anticipated or actual loss; caps enforced both ways) | MC |
 | Assignment / third-party beneficiaries | Vogan (R302 intended vs. incidental), Herzog (assignment irrevocable after notice), R317-318, R322, R311, R309; TWEN Emily, Andrew & Charles, Attorney Smith, Michael & Sarah | MC |
 | Ventura (quantum meruit where the contract is silent) | Ventura v. Titan Sports | MC |
+
+## STANDING RULE (user, 11/24): match the midterms exactly
+All future Contracts final-prep questions must have the SAME length, difficulty, and format as the actual midterm questions. Never shorter or easier.
+- Damages: E.Q.-slide style, about 150-250 words, 2-3 planted figure distractors, a reference to the "general measure of damages formula," and component sub-questions (LV/OL/CA/LA/total). Final format is all multiple choice, so use figure answer choices. Reference slides: Gana/Amazon, Michael/VG, Morgan espresso (slides_midterm2_3/).
+- Non-damages: Midterm I slide style (Q11 David/Betty conditional repudiation; Q12 Bob/Sarah doubt). Full facts with dates, amounts and parties; four close answer choices that turn on a single nuance.
+- The user said they would send specific midterm examples on 11/24; they didn't come through. When they arrive, add them here as the benchmark.
