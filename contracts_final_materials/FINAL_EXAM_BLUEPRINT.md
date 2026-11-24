@@ -2,7 +2,7 @@
 
 Use this file for every future Contracts quiz. Rules carried forward:
 - Write new fact patterns that apply each rule. Never ask what happened in a case.
-- Damages questions are fill-ins (numbers only): midterm-length patterns (~190-200 words) with 2-3 planted figure distractors, broken into LV / OL / CA / LA / total.
+- Damages questions are multiple choice with figure answer choices. Each one copies a midterm E.Q. (see midterm_EQ_benchmarks.md): 250-300 words, 2-4 traps, and one MC question per component (LV / OL / CA / LA / total).
 - Non-damages questions are 4-option multiple choice, Midterm I length and difficulty.
 - Sources for hypos:
   - Midterm I cases: `Midterm_I_Cases.docx` / `_text/Midterm_I_Cases.txt`
@@ -46,6 +46,6 @@ NOTE: `Contracts_Week_13_MidtermIII_Final_Review_112326.docx` (uploaded 11/24) c
 
 ## STANDING RULE (user, 11/24): match the midterms exactly
 All future Contracts final-prep questions must have the SAME length, difficulty, and format as the actual midterm questions. Never shorter or easier.
-- Damages: E.Q.-slide style, about 150-250 words, 2-3 planted figure distractors, a reference to the "general measure of damages formula," and component sub-questions (LV/OL/CA/LA/total). Final format is all multiple choice, so use figure answer choices. Reference slides: Gana/Amazon, Michael/VG, Morgan espresso (slides_midterm2_3/).
+- Damages: E.Q.-slide style, 250-300 words, 2-4 traps (see midterm_EQ_benchmarks.md), a reference to the "general measure of damages formula," and component sub-questions (LV/OL/CA/LA/total). Final format is all multiple choice, so use figure answer choices. Reference slides: Gana/Amazon, Michael/VG, Morgan espresso (slides_midterm2_3/).
 - Non-damages: Midterm I slide style (Q11 David/Betty conditional repudiation; Q12 Bob/Sarah doubt). Full facts with dates, amounts and parties; four close answer choices that turn on a single nuance.
-- The user said they would send specific midterm examples on 11/24; they didn't come through. When they arrive, add them here as the benchmark.
+- Benchmarks received 11/24: Lila, Michael/VG, Ralphie/Reva, Gana/Amazon, IBM/Suluku. See midterm_EQ_benchmarks.md.
