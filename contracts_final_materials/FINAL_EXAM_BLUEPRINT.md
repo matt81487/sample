@@ -10,7 +10,7 @@ Use this file for every future Contracts quiz. Rules carried forward:
   - TWEN problems: `TWEN_completed_problems_43.md`
   - Midterm II/III slides: `slides_midterm2_3/`
 
-NOTE: `Contracts_Week_13_MidtermIII_Final_Review_112326.docx` (uploaded 11/24) contains no text, images or tables; it is an empty document. The topic list below comes from the user's message.
+NOTE: Week 13 notes were re-uploaded 11/24. Their content is summarized in midterm_EQ_benchmarks.md: 50 MC in 2.5 hrs, focused on total breach and restitution, reliance and expectation damages.
 
 ## Topics the professor said will be on the final
 
