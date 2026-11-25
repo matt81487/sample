@@ -122,3 +122,8 @@ Found and fixed a bug: explanations that name wrong answers by letter ("C confus
 - Contracts k_f9: 50 MC (18 damages incl. 3-year dean contract, temp-plus-permanent replacement, builder LV/CA/total, owner with foreseeable kitchenette, lost-volume movers, reliance with salvage, R377, Lancellotti horse, Hadley partial mitigation; 32 Midterm I-style hypos).
 - Civ Pro cp_f9: 20 = 4 long fact patterns (~440-510 words) x 5, Betsy Harmon format with "Answers X and Y" combos: pastry chef (domicile/diversity/FQ+supp/removal/general PJ), guitar dealer (long-arm first/tag/choice-of-law A&B/Mullane), warehouse fire (Rule 14, §1367(b) for plaintiff v. 3P defendant and for intervenor plaintiffs, permissive counterclaim, Rule 20 smaller co-plaintiff), canyon accident (venue (b)(2), improper venue, §1404, Van Dusen + York, state-court FNC).
 - Con Law: the user is working on practice-midterm short essays #24 (Fed 45 / Rehnquist), #25 (Chase v. Iredell), #26 (Graglia on Lopez). Memory approach discussed in chat.
+
+## STANDING RULE (11/25), Con Law MC
+- Do NOT ask "which Justice/opinion said X" or "whose dissent/concurrence." Too specific.
+- Test majority/plurality holdings, the principles of each case, and hypos that apply those principles to new facts.
+- Essays: the user learns best with MNEMONICS (acronyms + one-sentence spine). See the mnemonic set given in chat on 11/25.
