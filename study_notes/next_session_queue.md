@@ -140,3 +140,4 @@ Found and fixed a bug: explanations that name wrong answers by letter ("C confus
   Con Law 65 + essays #24 FENCE, #25 Heart vs. Ink/PIE-JT, #26 3 R's/M-N-C (model answers keyed to the mnemonics). No who-said questions.
   Lesson: write correct answers no longer than the longest distractor (round 11 needed ~80 distractor rewrites via f11_more.py FIX/CPFIX dicts).
   Still pending: user's quiz-round-1 answers on FENCE / Heart vs. Ink / 3 R's.
+- 2026-11-25: Mnemonic sheet v2 adds PIGS (National Pork Producers v. Ross) and BUYER (White v. Mass. Council, market participant). Use them in future Con Law essays/MCs on the dormant Commerce Clause.
