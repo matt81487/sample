@@ -141,3 +141,8 @@ Found and fixed a bug: explanations that name wrong answers by letter ("C confus
   Lesson: write correct answers no longer than the longest distractor (round 11 needed ~80 distractor rewrites via f11_more.py FIX/CPFIX dicts).
   Still pending: user's quiz-round-1 answers on FENCE / Heart vs. Ink / 3 R's.
 - 2026-11-25: Mnemonic sheet v2 adds PIGS (National Pork Producers v. Ross) and BUYER (White v. Mass. Council, market participant). Use them in future Con Law essays/MCs on the dormant Commerce Clause.
+- 2026-11-25 Round 12 (v545): K_FX12 / CP_FX12 / CL_FX12 (k_fx12, cp_fx12, cl_fx12; meta kfx12/cpfx12/clfx12; createdAt +2027..+2029).
+  Contracts: Riva-type builder (LV/CA/total + NP+UNR check, Luten post-repudiation costs), Columbia-type payments > spending, Bad Employer timing, Hannibal & Walser reliance, Marcus/Betty election, Okoro losing contract, 3 breacher-restitution drills (Rondo, Tim, both ≤0), Luten, AC Builders rejected offer, Tire Station refused cover, Drako, Kanye, Kwame, Meridian, Sasha lost volume, Chicago Coliseum, Osteen, Algernon Blair, Schectman, Zapata, Florafax, Wartzman, Erlich, City Stores, Herzog instruction; Midterm I: R226, Corbin, Thompson v. Libby, R214, R216, enXco, R229, R84, R234, R241/Sackett, R242, R251/Hornell, Truman Flatt, R250 ill. 7, R89.
+  Civ Pro: two 500+ word patterns (Q1-7 SMJ/removal/joinder; Q8-13 PJ/§1404/Van Dusen), interpleader/19/24 (Q14-18), Erie (Q19-23), 37 singles.
+  Con Law: dormant Commerce Clause emphasis; essays PIGS / BUYER / CLAIM.
+  CORRECTION: Trump v. Slaughter (June 2026, in the reader) OVERRULED Humphrey's Executor. Fixed CL_FX11 Q51 (migration fixClFX11Slaughter). Never treat Humphrey's as current law.
