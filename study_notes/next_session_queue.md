@@ -127,3 +127,9 @@ Found and fixed a bug: explanations that name wrong answers by letter ("C confus
 - Do NOT ask "which Justice/opinion said X" or "whose dissent/concurrence." Too specific.
 - Test majority/plurality holdings, the principles of each case, and hypos that apply those principles to new facts.
 - Essays: the user learns best with MNEMONICS (acronyms + one-sentence spine). See the mnemonic set given in chat on 11/25.
+
+## Round 10 (11/25), published as artifact v542
+- IMPORTANT naming: cold-call.html already had OLD consts/functions K_F10, addKF10 and K_R10. This round uses K_FX10 / CP_FX10 / CL_FX10, set ids k_fx10 / cp_fx10 / cl_fx10, meta kfx10 / cpfx10 / clfx10. Before naming a new round, grep both the html and qsets.js for the const, function and meta names.
+- Contracts: 50 (18 damages: inferior job taken plus equipment cost, vacancy rule with signing bonus, builder LV/LA/total, owner with foreseeable rent, lost-volume with deposit, reliance, injured and breaching-party restitution, LD with zero loss, established-business profits, failure to cover, reliance capped by the loss; 8 TPB/assignment; 12 Midterm III; 12 Midterm I).
+- Civ Pro: 60 new-fact questions built on the 2020/2021/2025 rules (alien plaintiff + FQ, impleader with and without a contract, domicile, interpleader/Rule 19/24, venue across three states, Erie set; 30 standalones incl. supplemental can't support removal, forum clause vs. long-arm, federal = state PJ test, a NOT aggregation question).
+- Con Law: 65 + 3 essays (McCulloch/LEAP; §5 after Boerne; political question doctrine). Principles and hypos only; no who-said questions.
