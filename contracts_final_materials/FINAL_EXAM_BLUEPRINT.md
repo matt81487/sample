@@ -49,3 +49,8 @@ All future Contracts final-prep questions must have the SAME length, difficulty,
 - Damages: E.Q.-slide style, 250-300 words, 2-4 traps (see midterm_EQ_benchmarks.md), a reference to the "general measure of damages formula," and component sub-questions (LV/OL/CA/LA/total). Final format is all multiple choice, so use figure answer choices. Reference slides: Gana/Amazon, Michael/VG, Morgan espresso (slides_midterm2_3/).
 - Non-damages: Midterm I slide style (Q11 David/Betty conditional repudiation; Q12 Bob/Sarah doubt). Full facts with dates, amounts and parties; four close answer choices that turn on a single nuance.
 - Benchmarks received 11/24: Lila, Michael/VG, Ralphie/Reva, Gana/Amazon, IBM/Suluku. See midterm_EQ_benchmarks.md.
+
+
+## Standing rule (11/27): main doctrines only
+- Test the main doctrines and codes from the assigned cases; avoid fine points the materials don't cover.
+- UCC: 2-708(1)/(2) and lost volume are central (assigned; Jetz). 2-715 appears in the Hadley and mitigation notes. 2-712/2-713/2-706 appear only in one note after Crabby's: plain formulas only, used sparingly.
