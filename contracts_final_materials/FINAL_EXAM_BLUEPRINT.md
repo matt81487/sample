@@ -54,3 +54,22 @@ All future Contracts final-prep questions must have the SAME length, difficulty,
 ## Standing rule (11/27): main doctrines only
 - Test the main doctrines and codes from the assigned cases; avoid fine points the materials don't cover.
 - UCC: 2-708(1)/(2) and lost volume are central (assigned; Jetz). 2-715 appears in the Hadley and mitigation notes. 2-712/2-713/2-706 appear only in one note after Crabby's: plain formulas only, used sparingly.
+
+## Professor's class-slide problems and answers (shared by user 11/27; use for future sets)
+Damages (final focus: total breach; expectation, reliance, restitution):
+- Spring 2023 Exam III model: short shared fact patterns, 4 choices, mix of numbers and concepts. Isra (losing contract: reliance after R349 loss; restitution = reasonable value − payments), Broke (lost volume: net profits, ICS = additional contract, mitigation argument fails, profits presumed contemplated, bad-faith litigation fee exception), Sowell (delay: rental value if profits uncertain; Hadley foreseeability at contracting; R353 no distress), Dr. Sasha (reliance with reusable materials and R349 loss; restitution needs benefit; LV = R347(a)), Musa (breaching party restitution = smaller measure, increase in wealth).
+- Amina v. Musa: GM 50K + 0 − 30K − 0 = 20K vs. reliance 10K → expectation.
+- Maya's Fridge (Dusold): value as warranted − value as delivered incl. salvage (9,000 − 1,500 = 7,500); GM 7,500 + 0 − 0 − 0. Dusold: habitability = cost of repair; goods = 2-714(2); burden of proof on plaintiff.
+- Musa v. Hamilton: GM 460K + 3K − 384K − 21K = 58K; ENP + UNR = 73K − 15K = 58K.
+- Bob v. Al (R347 ill. 15): employee repudiates then is incapacitated; no damages for the period he couldn't have performed anyway.
+- Harris: injured party should accept the breaching sub's reasonable revised offer if still lowest; damages limited to unavoidable loss; doesn't excuse the breach.
+- Walser: overpayment for land + collateral reliance − proven loss; lost profits not reliance.
+- Wartzman: reliance when breach makes profit unprovable; pre-contract expenses out; R349.
+- E.Q. slides: Lila, VG/Michael, Ralphie/Reva, Gana/Amazon, Suluku/IBM, Morgan/Harbor (lost volume LA = 0).
+Midterm I/II rules from slides (use in Midterm I portions):
+- R89(a) Record Deal: an unexpected outside offer (RCA) is an unanticipated circumstance; Columbia's voluntary raise is enforceable (answer D "Yes"). The Application: new Mandarin translation work = new consideration / unforeseen circumstance → modification valid.
+- R201: shared meaning controls even over the reasonable-person reading (Mali Purchase) or a statutory definition (Rum Barrels); Sally's Olive Oil: knowledge/reason-to-know rules; no contract if neither or both knew.
+- PER: subsequent oral agreements not barred (Car Payment); fraud in the execution (R163) admissible (Tree Contract); Sherrodd: fraud in the inducement can't contradict express integrated terms with merger clause.
+- Taylor v. State Farm = CORBIN view of extrinsic evidence (reasonably susceptible), contrast restrictive/plain-meaning (Thompson v. Libby). NOT a good-faith case (fixed K_FX11 Q45 label).
+- Repudiation: conditioning performance on a new term = repudiation (Garage puppy; Rivera price increase), "could we change" = request; retraction must clearly indicate intent to perform before reliance/final treatment (Truman; Electric: recover only actual-failure damages). R253: no anticipatory claim when the repudiator already received full performance and only owes money (Coach Momo must wait until June 15).
+- Cherry Wood: financial inability isn't impracticability/frustration. David & Goliath: inadvertent substitution → substantial performance; diminution ($6,000), not $198,000 replacement.
